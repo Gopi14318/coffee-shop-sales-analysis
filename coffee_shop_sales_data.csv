@@ -1,0 +1,901 @@
+Transaction_ID,Date,Time,Store_Location,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Percent,Total_Bill,Payment_Method
+T10001,2026-06-13,09:55,Banjara Hills,Coffee,Mocha,1,150,0,150.0,Cash
+T10002,2026-05-20,09:30,Hitech City,Coffee,Latte,1,120,0,120.0,Cash
+T10003,2026-06-04,07:15,Gachibowli,Snacks,Veg Sandwich,2,140,5,266.0,UPI
+T10004,2026-04-25,17:00,Gachibowli,Snacks,Cheese Sandwich,3,160,10,432.0,Card
+T10005,2026-03-13,10:25,Madhapur,Coffee,Cappuccino,1,130,0,130.0,Card
+T10006,2026-06-04,11:00,Gachibowli,Snacks,Veg Sandwich,1,140,0,140.0,UPI
+T10007,2026-05-22,12:50,Hitech City,Bakery,Croissant,3,110,0,330.0,Cash
+T10008,2026-01-18,08:15,Hitech City,Snacks,Cheese Sandwich,1,160,0,160.0,UPI
+T10009,2026-04-08,11:50,Madhapur,Cold Drinks,Cold Coffee,1,150,0,150.0,UPI
+T10010,2026-06-21,11:50,Hitech City,Bakery,Brownie,1,100,10,90.0,Cash
+T10011,2026-03-04,10:30,Hitech City,Coffee,Mocha,5,150,10,675.0,Cash
+T10012,2026-03-25,19:00,Gachibowli,Coffee,Espresso,3,90,0,270.0,Card
+T10013,2026-01-17,10:45,Gachibowli,Cold Drinks,Iced Tea,2,120,0,240.0,Card
+T10014,2026-06-14,15:20,Madhapur,Coffee,Americano,1,100,5,95.0,Cash
+T10015,2026-05-30,14:45,Gachibowli,Tea,Green Tea,1,80,0,80.0,UPI
+T10016,2026-01-13,19:10,Gachibowli,Bakery,Brownie,1,100,10,90.0,Cash
+T10017,2026-01-17,14:45,Banjara Hills,Tea,Lemon Tea,2,70,5,133.0,Cash
+T10018,2026-01-30,17:40,Madhapur,Snacks,Cheese Sandwich,1,160,10,144.0,UPI
+T10019,2026-03-17,14:35,Madhapur,Coffee,Latte,4,120,10,432.0,Cash
+T10020,2026-02-15,15:05,Hitech City,Cold Drinks,Cold Coffee,2,150,10,270.0,UPI
+T10021,2026-04-06,18:40,Madhapur,Snacks,Cheese Sandwich,4,160,0,640.0,Card
+T10022,2026-01-05,09:25,Hitech City,Cold Drinks,Iced Tea,5,120,0,600.0,UPI
+T10023,2026-03-03,19:05,Hitech City,Coffee,Cappuccino,2,130,0,260.0,UPI
+T10024,2026-06-18,15:40,Gachibowli,Coffee,Americano,1,100,5,95.0,UPI
+T10025,2026-05-19,18:55,Madhapur,Coffee,Espresso,2,90,0,180.0,Card
+T10026,2026-05-13,15:15,Hitech City,Coffee,Espresso,1,90,0,90.0,Cash
+T10027,2026-02-26,07:55,Banjara Hills,Bakery,Brownie,1,100,0,100.0,Card
+T10028,2026-01-19,16:20,Hitech City,Bakery,Brownie,1,100,5,95.0,Cash
+T10029,2026-05-27,16:15,Hitech City,Snacks,Cheese Sandwich,1,160,0,160.0,UPI
+T10030,2026-01-25,17:25,Banjara Hills,Tea,Green Tea,1,80,10,72.0,Cash
+T10031,2026-06-17,21:05,Banjara Hills,Coffee,Latte,1,120,0,120.0,UPI
+T10032,2026-02-19,10:35,Gachibowli,Coffee,Americano,1,100,0,100.0,UPI
+T10033,2026-01-20,15:40,Banjara Hills,Coffee,Cappuccino,1,130,5,123.5,UPI
+T10034,2026-03-02,10:35,Banjara Hills,Tea,Lemon Tea,1,70,0,70.0,UPI
+T10035,2026-04-08,07:30,Madhapur,Coffee,Mocha,4,150,0,600.0,Card
+T10036,2026-06-28,20:40,Hitech City,Bakery,Brownie,2,100,0,200.0,Card
+T10037,2026-02-25,21:45,Madhapur,Snacks,Veg Sandwich,2,140,10,252.0,UPI
+T10038,2026-01-13,16:40,Banjara Hills,Cold Drinks,Iced Tea,3,120,0,360.0,Cash
+T10039,2026-01-21,19:05,Gachibowli,Bakery,Croissant,1,110,0,110.0,UPI
+T10040,2026-05-26,11:45,Madhapur,Coffee,Latte,2,120,0,240.0,Card
+T10041,2026-02-22,17:25,Madhapur,Coffee,Espresso,1,90,0,90.0,Card
+T10042,2026-03-22,20:05,Banjara Hills,Coffee,Latte,1,120,5,114.0,UPI
+T10043,2026-05-18,10:20,Hitech City,Coffee,Americano,4,100,0,400.0,Card
+T10044,2026-03-14,10:40,Banjara Hills,Snacks,Veg Sandwich,1,140,10,126.0,Cash
+T10045,2026-05-22,12:50,Madhapur,Coffee,Cappuccino,4,130,0,520.0,UPI
+T10046,2026-01-28,18:10,Madhapur,Coffee,Mocha,1,150,0,150.0,UPI
+T10047,2026-06-25,17:20,Banjara Hills,Bakery,Chocolate Muffin,1,95,0,95.0,Cash
+T10048,2026-04-19,19:00,Madhapur,Coffee,Latte,1,120,0,120.0,UPI
+T10049,2026-04-24,16:30,Hitech City,Bakery,Chocolate Muffin,1,95,0,95.0,Cash
+T10050,2026-01-10,19:45,Banjara Hills,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10051,2026-04-04,20:00,Hitech City,Cold Drinks,Iced Tea,1,120,10,108.0,Cash
+T10052,2026-01-27,13:40,Hitech City,Cold Drinks,Iced Tea,3,120,5,342.0,UPI
+T10053,2026-02-11,21:10,Madhapur,Cold Drinks,Iced Tea,1,120,0,120.0,Card
+T10054,2026-06-21,19:15,Banjara Hills,Coffee,Mocha,1,150,10,135.0,Card
+T10055,2026-01-10,19:15,Madhapur,Coffee,Espresso,3,90,0,270.0,Card
+T10056,2026-02-28,10:50,Banjara Hills,Coffee,Espresso,1,90,0,90.0,Card
+T10057,2026-03-31,17:30,Madhapur,Bakery,Brownie,5,100,5,475.0,UPI
+T10058,2026-01-30,19:20,Banjara Hills,Coffee,Americano,2,100,0,200.0,UPI
+T10059,2026-06-02,14:55,Banjara Hills,Snacks,Cheese Sandwich,1,160,5,152.0,Card
+T10060,2026-05-28,10:00,Hitech City,Snacks,Veg Sandwich,1,140,5,133.0,Card
+T10061,2026-04-21,08:50,Banjara Hills,Cold Drinks,Iced Tea,1,120,0,120.0,Cash
+T10062,2026-03-18,15:50,Madhapur,Tea,Green Tea,1,80,10,72.0,Cash
+T10063,2026-02-02,10:50,Madhapur,Tea,Green Tea,2,80,0,160.0,Card
+T10064,2026-05-21,19:20,Madhapur,Coffee,Mocha,1,150,5,142.5,Card
+T10065,2026-04-24,14:15,Hitech City,Bakery,Chocolate Muffin,1,95,10,85.5,Cash
+T10066,2026-01-22,11:50,Hitech City,Bakery,Brownie,2,100,0,200.0,Cash
+T10067,2026-03-21,10:15,Gachibowli,Coffee,Americano,1,100,0,100.0,Cash
+T10068,2026-01-19,15:50,Gachibowli,Bakery,Croissant,1,110,10,99.0,Card
+T10069,2026-04-13,11:50,Gachibowli,Snacks,Veg Sandwich,1,140,0,140.0,UPI
+T10070,2026-02-15,19:55,Hitech City,Bakery,Chocolate Muffin,1,95,5,90.25,UPI
+T10071,2026-04-27,09:35,Madhapur,Bakery,Brownie,2,100,5,190.0,Card
+T10072,2026-06-06,19:40,Gachibowli,Tea,Green Tea,3,80,5,228.0,UPI
+T10073,2026-05-02,15:15,Gachibowli,Cold Drinks,Cold Coffee,2,150,5,285.0,Cash
+T10074,2026-03-03,11:05,Madhapur,Snacks,Veg Sandwich,1,140,0,140.0,Card
+T10075,2026-05-19,08:10,Hitech City,Coffee,Espresso,1,90,0,90.0,UPI
+T10076,2026-04-17,14:40,Gachibowli,Tea,Lemon Tea,1,70,0,70.0,Card
+T10077,2026-05-30,20:00,Gachibowli,Cold Drinks,Cold Coffee,3,150,5,427.5,Card
+T10078,2026-01-02,20:20,Hitech City,Snacks,Cheese Sandwich,1,160,0,160.0,Card
+T10079,2026-02-26,11:35,Gachibowli,Coffee,Latte,1,120,10,108.0,Cash
+T10080,2026-02-12,19:10,Banjara Hills,Bakery,Croissant,2,110,0,220.0,UPI
+T10081,2026-06-14,14:35,Madhapur,Coffee,Americano,1,100,0,100.0,UPI
+T10082,2026-04-27,12:30,Madhapur,Coffee,Mocha,2,150,0,300.0,UPI
+T10083,2026-05-01,07:40,Hitech City,Coffee,Latte,5,120,0,600.0,Cash
+T10084,2026-01-18,18:50,Hitech City,Coffee,Latte,2,120,0,240.0,UPI
+T10085,2026-06-09,09:10,Hitech City,Tea,Lemon Tea,2,70,5,133.0,Card
+T10086,2026-06-29,11:25,Banjara Hills,Coffee,Americano,2,100,10,180.0,UPI
+T10087,2026-03-21,09:00,Gachibowli,Cold Drinks,Iced Tea,1,120,10,108.0,Card
+T10088,2026-02-20,08:55,Madhapur,Cold Drinks,Cold Coffee,2,150,0,300.0,Cash
+T10089,2026-06-03,19:45,Gachibowli,Snacks,Cheese Sandwich,1,160,5,152.0,Cash
+T10090,2026-04-05,08:50,Gachibowli,Tea,Masala Tea,1,60,0,60.0,UPI
+T10091,2026-04-21,20:50,Hitech City,Cold Drinks,Iced Tea,3,120,10,324.0,Card
+T10092,2026-02-15,18:50,Gachibowli,Coffee,Mocha,2,150,5,285.0,Card
+T10093,2026-04-22,19:45,Banjara Hills,Coffee,Mocha,1,150,0,150.0,Card
+T10094,2026-04-26,11:35,Madhapur,Bakery,Croissant,2,110,0,220.0,UPI
+T10095,2026-05-07,19:10,Madhapur,Tea,Lemon Tea,1,70,0,70.0,Card
+T10096,2026-06-02,18:20,Banjara Hills,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10097,2026-04-15,15:15,Gachibowli,Snacks,Veg Sandwich,1,140,10,126.0,Card
+T10098,2026-01-05,09:15,Madhapur,Tea,Green Tea,2,80,0,160.0,Card
+T10099,2026-05-22,16:30,Gachibowli,Snacks,Veg Sandwich,2,140,0,280.0,Card
+T10100,2026-03-20,11:05,Hitech City,Snacks,Veg Sandwich,1,140,0,140.0,UPI
+T10101,2026-02-25,18:20,Madhapur,Snacks,Veg Sandwich,2,140,5,266.0,UPI
+T10102,2026-02-19,12:25,Hitech City,Coffee,Americano,1,100,10,90.0,Card
+T10103,2026-01-12,21:40,Gachibowli,Coffee,Mocha,2,150,0,300.0,UPI
+T10104,2026-01-04,16:35,Banjara Hills,Tea,Lemon Tea,1,70,0,70.0,Card
+T10105,2026-05-03,09:05,Banjara Hills,Tea,Green Tea,1,80,5,76.0,UPI
+T10106,2026-02-08,19:20,Gachibowli,Coffee,Cappuccino,5,130,0,650.0,Cash
+T10107,2026-06-02,18:15,Gachibowli,Snacks,Cheese Sandwich,2,160,0,320.0,Card
+T10108,2026-05-31,21:20,Banjara Hills,Bakery,Croissant,2,110,5,209.0,UPI
+T10109,2026-06-10,10:50,Banjara Hills,Coffee,Cappuccino,1,130,0,130.0,UPI
+T10110,2026-01-01,14:55,Hitech City,Bakery,Croissant,1,110,0,110.0,Card
+T10111,2026-03-14,18:35,Hitech City,Coffee,Cappuccino,2,130,0,260.0,Card
+T10112,2026-01-30,16:50,Banjara Hills,Coffee,Americano,3,100,0,300.0,UPI
+T10113,2026-02-12,18:45,Gachibowli,Snacks,Veg Sandwich,3,140,0,420.0,UPI
+T10114,2026-04-30,18:55,Gachibowli,Tea,Green Tea,4,80,5,304.0,Card
+T10115,2026-01-21,17:30,Banjara Hills,Snacks,Veg Sandwich,1,140,0,140.0,UPI
+T10116,2026-02-28,21:45,Madhapur,Bakery,Croissant,4,110,10,396.0,Cash
+T10117,2026-01-11,18:10,Madhapur,Tea,Lemon Tea,2,70,0,140.0,UPI
+T10118,2026-05-30,14:35,Madhapur,Coffee,Cappuccino,1,130,0,130.0,Card
+T10119,2026-06-21,09:10,Madhapur,Tea,Masala Tea,1,60,0,60.0,Cash
+T10120,2026-04-13,19:40,Madhapur,Coffee,Latte,1,120,0,120.0,Card
+T10121,2026-01-30,21:30,Gachibowli,Cold Drinks,Cold Coffee,2,150,0,300.0,Card
+T10122,2026-01-14,10:25,Gachibowli,Bakery,Croissant,2,110,10,198.0,UPI
+T10123,2026-02-22,11:10,Gachibowli,Cold Drinks,Iced Tea,1,120,10,108.0,UPI
+T10124,2026-01-08,21:45,Madhapur,Snacks,Cheese Sandwich,1,160,0,160.0,Cash
+T10125,2026-01-04,16:05,Gachibowli,Coffee,Espresso,5,90,0,450.0,UPI
+T10126,2026-06-15,19:35,Madhapur,Cold Drinks,Iced Tea,2,120,5,228.0,Card
+T10127,2026-05-04,21:15,Hitech City,Tea,Lemon Tea,2,70,0,140.0,Cash
+T10128,2026-05-11,18:10,Madhapur,Cold Drinks,Cold Coffee,1,150,0,150.0,Cash
+T10129,2026-03-10,19:20,Gachibowli,Snacks,Veg Sandwich,1,140,5,133.0,UPI
+T10130,2026-04-25,16:25,Gachibowli,Tea,Masala Tea,2,60,5,114.0,Card
+T10131,2026-03-24,19:55,Gachibowli,Coffee,Espresso,2,90,0,180.0,UPI
+T10132,2026-03-23,18:55,Hitech City,Cold Drinks,Iced Tea,3,120,0,360.0,Card
+T10133,2026-01-10,09:45,Banjara Hills,Tea,Masala Tea,3,60,0,180.0,Cash
+T10134,2026-04-27,07:10,Banjara Hills,Tea,Green Tea,3,80,0,240.0,Card
+T10135,2026-03-09,13:55,Gachibowli,Tea,Green Tea,2,80,0,160.0,Card
+T10136,2026-06-10,18:35,Banjara Hills,Cold Drinks,Cold Coffee,2,150,5,285.0,UPI
+T10137,2026-06-11,18:20,Banjara Hills,Coffee,Espresso,2,90,0,180.0,Cash
+T10138,2026-01-26,15:55,Madhapur,Coffee,Mocha,3,150,0,450.0,UPI
+T10139,2026-03-17,13:30,Hitech City,Coffee,Americano,1,100,0,100.0,UPI
+T10140,2026-02-14,08:30,Hitech City,Bakery,Croissant,2,110,0,220.0,UPI
+T10141,2026-04-29,17:35,Madhapur,Coffee,Mocha,2,150,0,300.0,Cash
+T10142,2026-05-20,10:35,Gachibowli,Tea,Masala Tea,5,60,0,300.0,Cash
+T10143,2026-03-06,15:20,Banjara Hills,Coffee,Espresso,5,90,0,450.0,UPI
+T10144,2026-04-08,16:45,Banjara Hills,Coffee,Mocha,5,150,0,750.0,Cash
+T10145,2026-04-12,11:45,Banjara Hills,Cold Drinks,Cold Coffee,2,150,10,270.0,Cash
+T10146,2026-05-08,19:20,Madhapur,Snacks,Cheese Sandwich,2,160,5,304.0,UPI
+T10147,2026-06-12,10:20,Hitech City,Bakery,Brownie,2,100,10,180.0,Cash
+T10148,2026-01-25,20:50,Banjara Hills,Coffee,Latte,1,120,0,120.0,Cash
+T10149,2026-04-04,18:05,Gachibowli,Cold Drinks,Iced Tea,1,120,10,108.0,UPI
+T10150,2026-02-21,09:40,Madhapur,Cold Drinks,Iced Tea,4,120,5,456.0,UPI
+T10151,2026-03-07,20:35,Banjara Hills,Snacks,Cheese Sandwich,1,160,0,160.0,Card
+T10152,2026-01-20,09:15,Gachibowli,Cold Drinks,Cold Coffee,2,150,10,270.0,Cash
+T10153,2026-04-04,09:30,Gachibowli,Coffee,Latte,1,120,0,120.0,Card
+T10154,2026-06-22,18:20,Madhapur,Bakery,Croissant,1,110,10,99.0,UPI
+T10155,2026-06-22,11:00,Madhapur,Bakery,Croissant,3,110,5,313.5,Cash
+T10156,2026-02-26,17:50,Madhapur,Cold Drinks,Cold Coffee,1,150,10,135.0,Cash
+T10157,2026-04-15,09:00,Banjara Hills,Coffee,Latte,1,120,0,120.0,UPI
+T10158,2026-03-02,19:10,Gachibowli,Tea,Green Tea,1,80,10,72.0,Cash
+T10159,2026-02-09,19:50,Gachibowli,Coffee,Cappuccino,3,130,5,370.5,Card
+T10160,2026-01-09,18:15,Madhapur,Tea,Lemon Tea,1,70,0,70.0,UPI
+T10161,2026-06-25,13:50,Hitech City,Tea,Masala Tea,1,60,0,60.0,UPI
+T10162,2026-04-27,09:15,Banjara Hills,Bakery,Brownie,2,100,0,200.0,Card
+T10163,2026-03-04,21:45,Hitech City,Coffee,Espresso,1,90,5,85.5,Cash
+T10164,2026-02-25,19:15,Banjara Hills,Tea,Masala Tea,2,60,5,114.0,Card
+T10165,2026-02-07,21:40,Banjara Hills,Coffee,Mocha,2,150,0,300.0,UPI
+T10166,2026-01-04,13:15,Madhapur,Bakery,Croissant,1,110,0,110.0,UPI
+T10167,2026-02-02,18:40,Gachibowli,Coffee,Cappuccino,2,130,0,260.0,Card
+T10168,2026-05-12,17:35,Banjara Hills,Bakery,Chocolate Muffin,1,95,5,90.25,Cash
+T10169,2026-06-18,16:35,Gachibowli,Bakery,Brownie,4,100,0,400.0,Card
+T10170,2026-04-20,18:35,Banjara Hills,Snacks,Veg Sandwich,3,140,0,420.0,Card
+T10171,2026-06-05,09:10,Madhapur,Coffee,Mocha,2,150,5,285.0,Card
+T10172,2026-06-02,16:35,Banjara Hills,Bakery,Chocolate Muffin,2,95,0,190.0,Cash
+T10173,2026-06-16,19:40,Gachibowli,Snacks,Veg Sandwich,3,140,0,420.0,UPI
+T10174,2026-04-16,13:35,Madhapur,Tea,Green Tea,1,80,0,80.0,Card
+T10175,2026-03-22,17:25,Banjara Hills,Coffee,Americano,2,100,0,200.0,UPI
+T10176,2026-01-22,09:05,Banjara Hills,Snacks,Veg Sandwich,2,140,0,280.0,Cash
+T10177,2026-05-24,16:50,Gachibowli,Coffee,Cappuccino,1,130,10,117.0,Cash
+T10178,2026-01-14,21:45,Hitech City,Coffee,Mocha,1,150,5,142.5,UPI
+T10179,2026-06-18,15:05,Banjara Hills,Tea,Masala Tea,3,60,0,180.0,Card
+T10180,2026-05-27,10:30,Banjara Hills,Cold Drinks,Cold Coffee,2,150,5,285.0,Cash
+T10181,2026-06-18,19:20,Madhapur,Coffee,Latte,1,120,10,108.0,Card
+T10182,2026-03-31,07:10,Hitech City,Bakery,Croissant,2,110,0,220.0,Cash
+T10183,2026-06-12,21:05,Gachibowli,Snacks,Veg Sandwich,2,140,0,280.0,Card
+T10184,2026-03-29,10:20,Banjara Hills,Snacks,Veg Sandwich,1,140,5,133.0,UPI
+T10185,2026-02-09,10:45,Gachibowli,Coffee,Latte,2,120,0,240.0,Cash
+T10186,2026-04-19,15:35,Banjara Hills,Tea,Green Tea,1,80,5,76.0,Card
+T10187,2026-04-21,09:50,Madhapur,Bakery,Brownie,2,100,5,190.0,UPI
+T10188,2026-02-26,14:45,Hitech City,Coffee,Latte,1,120,0,120.0,UPI
+T10189,2026-03-07,12:05,Hitech City,Coffee,Latte,1,120,0,120.0,UPI
+T10190,2026-04-08,16:15,Madhapur,Bakery,Chocolate Muffin,2,95,10,171.0,UPI
+T10191,2026-04-12,19:00,Madhapur,Tea,Green Tea,1,80,0,80.0,Cash
+T10192,2026-04-20,16:55,Gachibowli,Bakery,Brownie,1,100,0,100.0,UPI
+T10193,2026-03-25,10:45,Banjara Hills,Tea,Lemon Tea,3,70,0,210.0,Card
+T10194,2026-01-28,11:45,Madhapur,Tea,Green Tea,2,80,0,160.0,Cash
+T10195,2026-03-28,10:10,Hitech City,Coffee,Cappuccino,2,130,0,260.0,Card
+T10196,2026-03-31,18:50,Hitech City,Cold Drinks,Cold Coffee,1,150,0,150.0,Card
+T10197,2026-02-20,10:10,Hitech City,Snacks,Cheese Sandwich,2,160,0,320.0,Cash
+T10198,2026-05-07,15:45,Madhapur,Snacks,Cheese Sandwich,2,160,10,288.0,Cash
+T10199,2026-03-22,09:05,Madhapur,Tea,Lemon Tea,1,70,0,70.0,Cash
+T10200,2026-01-15,13:05,Banjara Hills,Coffee,Mocha,1,150,0,150.0,Card
+T10201,2026-03-15,08:05,Gachibowli,Bakery,Croissant,2,110,0,220.0,Cash
+T10202,2026-05-22,20:55,Hitech City,Cold Drinks,Iced Tea,1,120,5,114.0,Card
+T10203,2026-06-04,15:10,Banjara Hills,Coffee,Latte,1,120,0,120.0,Cash
+T10204,2026-06-15,10:15,Hitech City,Snacks,Veg Sandwich,1,140,0,140.0,Card
+T10205,2026-04-06,20:30,Banjara Hills,Tea,Green Tea,2,80,10,144.0,Cash
+T10206,2026-06-15,12:25,Madhapur,Coffee,Cappuccino,2,130,0,260.0,Card
+T10207,2026-06-18,21:45,Hitech City,Cold Drinks,Cold Coffee,1,150,0,150.0,Card
+T10208,2026-03-21,21:55,Banjara Hills,Bakery,Brownie,1,100,5,95.0,Card
+T10209,2026-05-24,13:25,Banjara Hills,Cold Drinks,Cold Coffee,1,150,10,135.0,Cash
+T10210,2026-06-21,14:25,Hitech City,Coffee,Latte,1,120,0,120.0,Card
+T10211,2026-05-05,10:10,Banjara Hills,Coffee,Americano,1,100,0,100.0,Cash
+T10212,2026-03-28,19:45,Hitech City,Coffee,Americano,2,100,0,200.0,UPI
+T10213,2026-06-27,18:10,Madhapur,Snacks,Veg Sandwich,1,140,0,140.0,Cash
+T10214,2026-03-02,21:45,Hitech City,Coffee,Mocha,2,150,0,300.0,Cash
+T10215,2026-03-03,12:35,Gachibowli,Cold Drinks,Iced Tea,3,120,0,360.0,Card
+T10216,2026-03-14,18:40,Hitech City,Bakery,Chocolate Muffin,1,95,0,95.0,Cash
+T10217,2026-02-05,19:00,Banjara Hills,Bakery,Brownie,1,100,0,100.0,Cash
+T10218,2026-05-13,19:20,Gachibowli,Coffee,Cappuccino,2,130,0,260.0,Cash
+T10219,2026-02-07,19:05,Madhapur,Cold Drinks,Iced Tea,1,120,0,120.0,UPI
+T10220,2026-04-17,08:40,Madhapur,Tea,Masala Tea,1,60,0,60.0,UPI
+T10221,2026-01-08,12:05,Hitech City,Cold Drinks,Cold Coffee,2,150,0,300.0,UPI
+T10222,2026-01-10,11:35,Gachibowli,Snacks,Veg Sandwich,3,140,10,378.0,Card
+T10223,2026-06-07,07:05,Gachibowli,Coffee,Latte,1,120,0,120.0,UPI
+T10224,2026-03-15,11:05,Gachibowli,Coffee,Latte,1,120,10,108.0,UPI
+T10225,2026-01-29,19:35,Hitech City,Bakery,Croissant,2,110,10,198.0,Cash
+T10226,2026-02-06,12:00,Gachibowli,Bakery,Croissant,1,110,5,104.5,UPI
+T10227,2026-06-20,17:40,Banjara Hills,Tea,Masala Tea,1,60,5,57.0,Card
+T10228,2026-05-01,08:30,Madhapur,Tea,Masala Tea,1,60,0,60.0,UPI
+T10229,2026-03-30,11:50,Madhapur,Bakery,Brownie,1,100,5,95.0,UPI
+T10230,2026-01-12,13:25,Gachibowli,Cold Drinks,Cold Coffee,2,150,10,270.0,Cash
+T10231,2026-05-03,17:10,Banjara Hills,Coffee,Cappuccino,2,130,0,260.0,Card
+T10232,2026-02-21,08:15,Gachibowli,Cold Drinks,Iced Tea,1,120,0,120.0,Cash
+T10233,2026-05-02,11:50,Madhapur,Coffee,Espresso,1,90,0,90.0,Card
+T10234,2026-02-01,19:30,Gachibowli,Cold Drinks,Iced Tea,1,120,0,120.0,Card
+T10235,2026-02-17,15:35,Madhapur,Tea,Masala Tea,4,60,5,228.0,UPI
+T10236,2026-04-19,08:45,Madhapur,Cold Drinks,Cold Coffee,1,150,0,150.0,UPI
+T10237,2026-01-21,12:20,Gachibowli,Coffee,Mocha,1,150,10,135.0,UPI
+T10238,2026-06-26,15:35,Gachibowli,Coffee,Latte,2,120,0,240.0,Card
+T10239,2026-06-13,21:00,Madhapur,Coffee,Cappuccino,2,130,0,260.0,Cash
+T10240,2026-06-23,10:00,Gachibowli,Coffee,Americano,3,100,10,270.0,UPI
+T10241,2026-02-02,08:50,Banjara Hills,Tea,Masala Tea,1,60,5,57.0,Cash
+T10242,2026-02-09,17:25,Hitech City,Tea,Masala Tea,1,60,0,60.0,Cash
+T10243,2026-04-04,14:50,Banjara Hills,Coffee,Mocha,1,150,0,150.0,Cash
+T10244,2026-02-17,15:30,Madhapur,Cold Drinks,Iced Tea,2,120,0,240.0,Cash
+T10245,2026-04-25,10:45,Hitech City,Coffee,Mocha,2,150,0,300.0,UPI
+T10246,2026-02-04,19:35,Banjara Hills,Coffee,Americano,3,100,0,300.0,Cash
+T10247,2026-03-23,17:55,Madhapur,Coffee,Cappuccino,2,130,0,260.0,UPI
+T10248,2026-06-29,17:25,Hitech City,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10249,2026-05-07,07:40,Hitech City,Bakery,Croissant,1,110,5,104.5,Cash
+T10250,2026-01-23,08:30,Gachibowli,Snacks,Veg Sandwich,2,140,5,266.0,Card
+T10251,2026-05-28,08:25,Madhapur,Bakery,Brownie,1,100,0,100.0,UPI
+T10252,2026-05-22,17:10,Banjara Hills,Snacks,Cheese Sandwich,4,160,0,640.0,UPI
+T10253,2026-05-13,09:10,Hitech City,Coffee,Americano,1,100,10,90.0,Card
+T10254,2026-05-13,20:05,Madhapur,Coffee,Mocha,1,150,5,142.5,UPI
+T10255,2026-06-10,12:40,Hitech City,Coffee,Cappuccino,2,130,0,260.0,UPI
+T10256,2026-06-18,17:45,Banjara Hills,Tea,Masala Tea,3,60,5,171.0,UPI
+T10257,2026-01-21,08:50,Hitech City,Snacks,Cheese Sandwich,2,160,10,288.0,Cash
+T10258,2026-04-17,17:00,Madhapur,Tea,Lemon Tea,3,70,5,199.5,Cash
+T10259,2026-03-19,15:50,Banjara Hills,Tea,Green Tea,1,80,0,80.0,UPI
+T10260,2026-04-23,14:35,Madhapur,Coffee,Espresso,1,90,0,90.0,Cash
+T10261,2026-03-23,18:25,Banjara Hills,Tea,Green Tea,1,80,0,80.0,Card
+T10262,2026-03-03,15:20,Banjara Hills,Tea,Lemon Tea,1,70,0,70.0,Card
+T10263,2026-04-09,19:30,Madhapur,Coffee,Espresso,4,90,0,360.0,Cash
+T10264,2026-03-22,10:10,Gachibowli,Tea,Lemon Tea,5,70,0,350.0,Card
+T10265,2026-05-08,07:30,Hitech City,Bakery,Chocolate Muffin,1,95,0,95.0,Cash
+T10266,2026-04-01,08:20,Gachibowli,Tea,Lemon Tea,2,70,10,126.0,Card
+T10267,2026-05-18,07:05,Madhapur,Tea,Green Tea,1,80,0,80.0,Card
+T10268,2026-04-04,08:00,Madhapur,Bakery,Croissant,2,110,0,220.0,UPI
+T10269,2026-04-09,15:40,Banjara Hills,Coffee,Mocha,3,150,5,427.5,UPI
+T10270,2026-01-25,14:25,Hitech City,Bakery,Chocolate Muffin,4,95,0,380.0,Cash
+T10271,2026-05-11,14:00,Madhapur,Coffee,Latte,1,120,10,108.0,Card
+T10272,2026-05-13,15:45,Madhapur,Cold Drinks,Iced Tea,2,120,0,240.0,UPI
+T10273,2026-04-11,21:55,Gachibowli,Cold Drinks,Cold Coffee,1,150,0,150.0,Cash
+T10274,2026-05-25,12:00,Gachibowli,Tea,Masala Tea,1,60,0,60.0,Cash
+T10275,2026-03-20,18:55,Gachibowli,Cold Drinks,Cold Coffee,2,150,0,300.0,Card
+T10276,2026-06-17,18:45,Gachibowli,Bakery,Croissant,1,110,0,110.0,UPI
+T10277,2026-05-15,17:45,Hitech City,Snacks,Cheese Sandwich,3,160,0,480.0,UPI
+T10278,2026-05-27,20:05,Gachibowli,Coffee,Espresso,1,90,0,90.0,UPI
+T10279,2026-04-16,18:30,Banjara Hills,Bakery,Chocolate Muffin,2,95,0,190.0,Cash
+T10280,2026-02-05,16:40,Gachibowli,Tea,Masala Tea,5,60,0,300.0,Card
+T10281,2026-02-14,15:40,Madhapur,Tea,Masala Tea,2,60,10,108.0,Cash
+T10282,2026-05-04,10:15,Madhapur,Coffee,Mocha,2,150,0,300.0,Card
+T10283,2026-02-23,18:35,Madhapur,Tea,Masala Tea,1,60,5,57.0,Card
+T10284,2026-02-01,16:40,Madhapur,Tea,Green Tea,3,80,0,240.0,UPI
+T10285,2026-03-16,08:55,Madhapur,Coffee,Cappuccino,1,130,0,130.0,Cash
+T10286,2026-05-03,10:40,Madhapur,Coffee,Mocha,4,150,10,540.0,UPI
+T10287,2026-01-28,17:45,Hitech City,Coffee,Espresso,1,90,10,81.0,Cash
+T10288,2026-03-01,08:30,Hitech City,Tea,Masala Tea,2,60,0,120.0,UPI
+T10289,2026-05-21,21:10,Gachibowli,Tea,Green Tea,2,80,0,160.0,Cash
+T10290,2026-02-21,18:20,Banjara Hills,Tea,Masala Tea,1,60,0,60.0,Cash
+T10291,2026-05-27,11:55,Hitech City,Snacks,Veg Sandwich,3,140,0,420.0,Card
+T10292,2026-02-15,20:00,Hitech City,Cold Drinks,Cold Coffee,1,150,0,150.0,Cash
+T10293,2026-03-16,19:00,Madhapur,Coffee,Mocha,2,150,0,300.0,Card
+T10294,2026-04-27,21:40,Gachibowli,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10295,2026-02-19,19:25,Madhapur,Coffee,Americano,2,100,10,180.0,Cash
+T10296,2026-02-17,07:25,Hitech City,Snacks,Cheese Sandwich,1,160,10,144.0,UPI
+T10297,2026-06-06,19:30,Banjara Hills,Cold Drinks,Cold Coffee,1,150,0,150.0,Card
+T10298,2026-06-21,09:10,Banjara Hills,Tea,Lemon Tea,1,70,0,70.0,Card
+T10299,2026-04-09,11:20,Banjara Hills,Tea,Masala Tea,1,60,10,54.0,Card
+T10300,2026-06-17,13:15,Madhapur,Coffee,Latte,2,120,0,240.0,UPI
+T10301,2026-04-14,18:55,Madhapur,Snacks,Cheese Sandwich,1,160,0,160.0,Card
+T10302,2026-06-07,10:10,Madhapur,Tea,Lemon Tea,1,70,10,63.0,Card
+T10303,2026-06-29,16:35,Hitech City,Snacks,Cheese Sandwich,2,160,10,288.0,UPI
+T10304,2026-06-24,18:05,Madhapur,Bakery,Chocolate Muffin,1,95,10,85.5,UPI
+T10305,2026-05-25,09:40,Hitech City,Cold Drinks,Iced Tea,2,120,5,228.0,UPI
+T10306,2026-03-25,19:35,Gachibowli,Coffee,Cappuccino,2,130,10,234.0,UPI
+T10307,2026-05-11,15:00,Gachibowli,Tea,Lemon Tea,1,70,0,70.0,Cash
+T10308,2026-01-15,16:50,Gachibowli,Snacks,Cheese Sandwich,1,160,0,160.0,Card
+T10309,2026-01-01,18:45,Banjara Hills,Coffee,Cappuccino,1,130,0,130.0,Cash
+T10310,2026-01-16,20:05,Gachibowli,Cold Drinks,Iced Tea,1,120,0,120.0,UPI
+T10311,2026-02-04,18:55,Gachibowli,Bakery,Brownie,4,100,0,400.0,Card
+T10312,2026-04-07,13:50,Madhapur,Bakery,Brownie,3,100,0,300.0,UPI
+T10313,2026-02-15,21:30,Banjara Hills,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10314,2026-03-18,15:55,Hitech City,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10315,2026-04-28,13:20,Banjara Hills,Coffee,Espresso,4,90,10,324.0,UPI
+T10316,2026-06-19,14:00,Banjara Hills,Coffee,Espresso,1,90,0,90.0,Card
+T10317,2026-06-03,17:00,Gachibowli,Coffee,Espresso,2,90,0,180.0,UPI
+T10318,2026-05-19,10:00,Hitech City,Coffee,Americano,2,100,0,200.0,Cash
+T10319,2026-05-28,12:45,Hitech City,Snacks,Cheese Sandwich,2,160,0,320.0,Card
+T10320,2026-02-06,21:40,Banjara Hills,Coffee,Espresso,1,90,0,90.0,Cash
+T10321,2026-06-01,19:10,Gachibowli,Bakery,Brownie,2,100,5,190.0,UPI
+T10322,2026-03-30,20:50,Gachibowli,Tea,Green Tea,2,80,0,160.0,Card
+T10323,2026-02-08,12:10,Hitech City,Snacks,Cheese Sandwich,2,160,0,320.0,Card
+T10324,2026-02-06,19:00,Hitech City,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10325,2026-03-04,11:25,Madhapur,Bakery,Brownie,1,100,0,100.0,UPI
+T10326,2026-05-18,18:15,Banjara Hills,Coffee,Latte,1,120,10,108.0,UPI
+T10327,2026-02-18,19:45,Gachibowli,Snacks,Veg Sandwich,2,140,0,280.0,UPI
+T10328,2026-03-27,12:00,Banjara Hills,Coffee,Espresso,4,90,10,324.0,Cash
+T10329,2026-05-03,20:55,Hitech City,Bakery,Croissant,2,110,0,220.0,Cash
+T10330,2026-03-24,18:30,Madhapur,Tea,Lemon Tea,2,70,0,140.0,Card
+T10331,2026-04-03,16:35,Gachibowli,Tea,Lemon Tea,1,70,10,63.0,Card
+T10332,2026-02-22,13:30,Hitech City,Coffee,Latte,2,120,0,240.0,UPI
+T10333,2026-03-08,16:45,Hitech City,Bakery,Croissant,2,110,0,220.0,UPI
+T10334,2026-03-26,10:45,Madhapur,Cold Drinks,Cold Coffee,1,150,5,142.5,Card
+T10335,2026-05-06,21:50,Madhapur,Snacks,Veg Sandwich,1,140,0,140.0,UPI
+T10336,2026-02-05,18:35,Banjara Hills,Coffee,Americano,3,100,5,285.0,Cash
+T10337,2026-01-09,19:05,Gachibowli,Cold Drinks,Cold Coffee,2,150,0,300.0,UPI
+T10338,2026-06-11,11:55,Gachibowli,Coffee,Americano,1,100,5,95.0,Card
+T10339,2026-01-16,17:50,Gachibowli,Cold Drinks,Iced Tea,2,120,0,240.0,UPI
+T10340,2026-01-02,16:30,Madhapur,Coffee,Latte,1,120,10,108.0,Cash
+T10341,2026-03-15,07:55,Banjara Hills,Bakery,Brownie,1,100,0,100.0,UPI
+T10342,2026-05-15,09:15,Madhapur,Bakery,Croissant,2,110,0,220.0,Card
+T10343,2026-01-21,13:30,Hitech City,Tea,Lemon Tea,2,70,10,126.0,Card
+T10344,2026-06-25,19:05,Banjara Hills,Bakery,Brownie,5,100,10,450.0,UPI
+T10345,2026-04-14,13:40,Hitech City,Tea,Lemon Tea,1,70,0,70.0,UPI
+T10346,2026-05-08,19:50,Banjara Hills,Snacks,Cheese Sandwich,1,160,0,160.0,UPI
+T10347,2026-02-24,20:55,Banjara Hills,Cold Drinks,Iced Tea,2,120,0,240.0,UPI
+T10348,2026-06-25,20:40,Madhapur,Bakery,Croissant,2,110,0,220.0,UPI
+T10349,2026-02-23,17:55,Madhapur,Cold Drinks,Cold Coffee,1,150,0,150.0,UPI
+T10350,2026-05-25,11:30,Gachibowli,Bakery,Brownie,3,100,0,300.0,Cash
+T10351,2026-02-05,18:55,Madhapur,Snacks,Veg Sandwich,1,140,10,126.0,UPI
+T10352,2026-01-26,14:05,Gachibowli,Tea,Masala Tea,2,60,5,114.0,Card
+T10353,2026-01-08,17:35,Gachibowli,Tea,Lemon Tea,1,70,5,66.5,Card
+T10354,2026-02-17,17:50,Madhapur,Tea,Green Tea,1,80,5,76.0,UPI
+T10355,2026-01-19,08:10,Hitech City,Tea,Green Tea,2,80,10,144.0,Cash
+T10356,2026-04-10,12:05,Gachibowli,Coffee,Cappuccino,1,130,0,130.0,Card
+T10357,2026-03-11,09:05,Gachibowli,Coffee,Americano,1,100,5,95.0,UPI
+T10358,2026-01-07,09:40,Gachibowli,Coffee,Cappuccino,2,130,0,260.0,UPI
+T10359,2026-03-16,14:05,Hitech City,Snacks,Veg Sandwich,3,140,0,420.0,Cash
+T10360,2026-04-08,10:20,Banjara Hills,Coffee,Mocha,1,150,0,150.0,UPI
+T10361,2026-04-22,11:20,Madhapur,Tea,Lemon Tea,2,70,0,140.0,UPI
+T10362,2026-06-10,15:45,Madhapur,Coffee,Espresso,1,90,0,90.0,UPI
+T10363,2026-04-12,12:45,Gachibowli,Tea,Green Tea,3,80,0,240.0,Card
+T10364,2026-04-21,19:50,Hitech City,Bakery,Croissant,1,110,0,110.0,Card
+T10365,2026-03-22,10:30,Gachibowli,Tea,Masala Tea,1,60,10,54.0,Cash
+T10366,2026-03-04,12:20,Banjara Hills,Cold Drinks,Cold Coffee,2,150,0,300.0,Cash
+T10367,2026-02-21,17:40,Banjara Hills,Coffee,Americano,2,100,5,190.0,Cash
+T10368,2026-04-29,20:15,Banjara Hills,Tea,Lemon Tea,2,70,10,126.0,Card
+T10369,2026-06-22,15:50,Hitech City,Coffee,Mocha,1,150,10,135.0,Cash
+T10370,2026-04-19,18:05,Gachibowli,Tea,Lemon Tea,5,70,0,350.0,Cash
+T10371,2026-05-10,20:55,Banjara Hills,Tea,Green Tea,2,80,0,160.0,UPI
+T10372,2026-03-05,17:25,Gachibowli,Coffee,Americano,2,100,0,200.0,Card
+T10373,2026-04-21,09:05,Hitech City,Coffee,Mocha,1,150,10,135.0,Card
+T10374,2026-04-06,14:50,Madhapur,Bakery,Croissant,2,110,0,220.0,UPI
+T10375,2026-05-04,09:30,Hitech City,Cold Drinks,Iced Tea,4,120,0,480.0,Card
+T10376,2026-03-21,13:15,Banjara Hills,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10377,2026-06-28,15:05,Banjara Hills,Coffee,Mocha,1,150,10,135.0,UPI
+T10378,2026-03-29,17:50,Hitech City,Snacks,Cheese Sandwich,1,160,10,144.0,Cash
+T10379,2026-02-14,16:25,Hitech City,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10380,2026-06-11,10:50,Hitech City,Bakery,Brownie,1,100,0,100.0,Card
+T10381,2026-06-01,14:00,Banjara Hills,Snacks,Veg Sandwich,1,140,0,140.0,Cash
+T10382,2026-01-27,19:40,Gachibowli,Coffee,Americano,1,100,0,100.0,UPI
+T10383,2026-03-09,17:35,Gachibowli,Bakery,Chocolate Muffin,4,95,0,380.0,Cash
+T10384,2026-04-11,17:25,Hitech City,Tea,Masala Tea,3,60,5,171.0,Cash
+T10385,2026-03-18,20:45,Banjara Hills,Coffee,Cappuccino,2,130,0,260.0,UPI
+T10386,2026-03-20,09:25,Gachibowli,Snacks,Veg Sandwich,1,140,0,140.0,Cash
+T10387,2026-02-05,16:30,Hitech City,Coffee,Americano,1,100,5,95.0,Cash
+T10388,2026-02-12,15:10,Banjara Hills,Coffee,Americano,1,100,0,100.0,Card
+T10389,2026-01-03,15:15,Gachibowli,Cold Drinks,Cold Coffee,1,150,5,142.5,Card
+T10390,2026-06-25,15:55,Banjara Hills,Cold Drinks,Cold Coffee,1,150,0,150.0,Cash
+T10391,2026-01-08,18:15,Madhapur,Coffee,Mocha,1,150,0,150.0,UPI
+T10392,2026-04-28,16:35,Banjara Hills,Bakery,Chocolate Muffin,2,95,5,180.5,Card
+T10393,2026-05-20,19:25,Gachibowli,Bakery,Chocolate Muffin,3,95,0,285.0,Cash
+T10394,2026-02-25,21:05,Madhapur,Snacks,Veg Sandwich,3,140,0,420.0,UPI
+T10395,2026-04-26,11:05,Hitech City,Tea,Lemon Tea,3,70,0,210.0,UPI
+T10396,2026-05-31,18:55,Hitech City,Bakery,Croissant,2,110,0,220.0,UPI
+T10397,2026-02-22,19:45,Hitech City,Tea,Masala Tea,2,60,5,114.0,Card
+T10398,2026-03-16,12:20,Banjara Hills,Cold Drinks,Cold Coffee,2,150,10,270.0,UPI
+T10399,2026-04-16,20:20,Hitech City,Cold Drinks,Cold Coffee,2,150,10,270.0,UPI
+T10400,2026-02-07,18:15,Gachibowli,Snacks,Cheese Sandwich,3,160,0,480.0,UPI
+T10401,2026-05-28,17:50,Banjara Hills,Tea,Green Tea,1,80,0,80.0,Card
+T10402,2026-05-12,18:55,Gachibowli,Cold Drinks,Iced Tea,3,120,0,360.0,Card
+T10403,2026-05-29,07:55,Madhapur,Coffee,Cappuccino,2,130,0,260.0,UPI
+T10404,2026-05-17,14:30,Madhapur,Cold Drinks,Cold Coffee,1,150,0,150.0,Card
+T10405,2026-03-28,16:10,Banjara Hills,Bakery,Croissant,3,110,0,330.0,UPI
+T10406,2026-01-26,17:35,Gachibowli,Coffee,Latte,1,120,0,120.0,Card
+T10407,2026-01-01,21:30,Madhapur,Coffee,Espresso,5,90,0,450.0,UPI
+T10408,2026-03-12,09:25,Hitech City,Coffee,Mocha,1,150,10,135.0,UPI
+T10409,2026-04-12,17:55,Banjara Hills,Snacks,Veg Sandwich,2,140,0,280.0,Cash
+T10410,2026-01-25,07:35,Gachibowli,Coffee,Cappuccino,1,130,0,130.0,UPI
+T10411,2026-01-03,18:05,Gachibowli,Cold Drinks,Cold Coffee,1,150,0,150.0,UPI
+T10412,2026-02-28,13:55,Madhapur,Snacks,Cheese Sandwich,1,160,0,160.0,Card
+T10413,2026-02-05,13:10,Banjara Hills,Bakery,Brownie,5,100,0,500.0,Cash
+T10414,2026-05-25,07:50,Hitech City,Coffee,Americano,1,100,10,90.0,Cash
+T10415,2026-02-08,20:45,Banjara Hills,Bakery,Brownie,1,100,0,100.0,UPI
+T10416,2026-02-05,18:45,Madhapur,Snacks,Veg Sandwich,1,140,0,140.0,UPI
+T10417,2026-03-05,11:05,Madhapur,Coffee,Espresso,2,90,5,171.0,Cash
+T10418,2026-01-07,19:50,Hitech City,Cold Drinks,Iced Tea,1,120,5,114.0,Cash
+T10419,2026-04-11,12:00,Gachibowli,Snacks,Cheese Sandwich,3,160,0,480.0,Card
+T10420,2026-01-29,11:50,Madhapur,Bakery,Croissant,1,110,0,110.0,Card
+T10421,2026-02-03,14:45,Hitech City,Tea,Green Tea,1,80,10,72.0,Card
+T10422,2026-01-19,07:05,Banjara Hills,Coffee,Latte,1,120,0,120.0,Card
+T10423,2026-05-10,11:55,Gachibowli,Bakery,Chocolate Muffin,2,95,0,190.0,UPI
+T10424,2026-06-13,16:45,Banjara Hills,Coffee,Americano,1,100,0,100.0,Cash
+T10425,2026-02-22,21:10,Banjara Hills,Bakery,Chocolate Muffin,1,95,5,90.25,Card
+T10426,2026-06-28,14:15,Banjara Hills,Coffee,Latte,1,120,0,120.0,Card
+T10427,2026-06-06,17:20,Hitech City,Bakery,Brownie,2,100,10,180.0,UPI
+T10428,2026-01-04,18:55,Madhapur,Coffee,Latte,1,120,0,120.0,UPI
+T10429,2026-04-06,09:20,Madhapur,Snacks,Veg Sandwich,3,140,0,420.0,Card
+T10430,2026-03-11,16:20,Banjara Hills,Snacks,Veg Sandwich,4,140,10,504.0,Card
+T10431,2026-04-27,16:00,Madhapur,Tea,Lemon Tea,3,70,0,210.0,UPI
+T10432,2026-03-07,18:45,Banjara Hills,Bakery,Brownie,2,100,0,200.0,UPI
+T10433,2026-01-04,11:35,Hitech City,Tea,Masala Tea,1,60,0,60.0,UPI
+T10434,2026-05-22,19:55,Madhapur,Snacks,Veg Sandwich,2,140,0,280.0,UPI
+T10435,2026-04-17,20:25,Madhapur,Coffee,Mocha,3,150,5,427.5,UPI
+T10436,2026-05-09,17:00,Banjara Hills,Coffee,Americano,1,100,5,95.0,Card
+T10437,2026-01-18,19:20,Banjara Hills,Snacks,Cheese Sandwich,3,160,0,480.0,Cash
+T10438,2026-04-27,07:15,Hitech City,Coffee,Mocha,2,150,0,300.0,Card
+T10439,2026-04-05,17:35,Hitech City,Snacks,Cheese Sandwich,2,160,10,288.0,UPI
+T10440,2026-01-02,20:00,Banjara Hills,Coffee,Espresso,2,90,10,162.0,Card
+T10441,2026-01-01,18:30,Banjara Hills,Cold Drinks,Cold Coffee,2,150,0,300.0,UPI
+T10442,2026-05-16,21:30,Madhapur,Tea,Lemon Tea,4,70,0,280.0,UPI
+T10443,2026-01-12,20:40,Gachibowli,Tea,Green Tea,2,80,0,160.0,Cash
+T10444,2026-01-22,16:40,Banjara Hills,Coffee,Americano,2,100,0,200.0,Cash
+T10445,2026-05-26,08:50,Madhapur,Coffee,Americano,1,100,0,100.0,Card
+T10446,2026-06-29,19:25,Banjara Hills,Tea,Masala Tea,1,60,0,60.0,UPI
+T10447,2026-02-04,18:45,Gachibowli,Coffee,Cappuccino,1,130,0,130.0,Card
+T10448,2026-03-22,14:40,Gachibowli,Tea,Masala Tea,4,60,0,240.0,Card
+T10449,2026-04-29,11:05,Madhapur,Coffee,Cappuccino,1,130,10,117.0,Cash
+T10450,2026-06-28,17:15,Banjara Hills,Cold Drinks,Cold Coffee,3,150,0,450.0,Cash
+T10451,2026-03-05,21:30,Madhapur,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10452,2026-01-08,20:35,Banjara Hills,Bakery,Chocolate Muffin,2,95,0,190.0,Card
+T10453,2026-01-27,19:10,Hitech City,Coffee,Cappuccino,1,130,0,130.0,UPI
+T10454,2026-04-13,13:50,Madhapur,Bakery,Brownie,1,100,5,95.0,UPI
+T10455,2026-01-06,21:15,Banjara Hills,Cold Drinks,Iced Tea,2,120,0,240.0,Card
+T10456,2026-02-01,08:35,Gachibowli,Coffee,Latte,1,120,5,114.0,Cash
+T10457,2026-04-12,15:30,Hitech City,Bakery,Brownie,1,100,0,100.0,UPI
+T10458,2026-03-12,11:10,Hitech City,Coffee,Latte,2,120,5,228.0,Cash
+T10459,2026-03-17,15:40,Gachibowli,Tea,Lemon Tea,1,70,0,70.0,UPI
+T10460,2026-04-18,10:40,Banjara Hills,Coffee,Espresso,2,90,5,171.0,Card
+T10461,2026-04-02,15:35,Madhapur,Tea,Masala Tea,3,60,5,171.0,Card
+T10462,2026-03-11,10:25,Banjara Hills,Bakery,Croissant,1,110,0,110.0,Card
+T10463,2026-05-16,13:45,Hitech City,Coffee,Espresso,4,90,0,360.0,Cash
+T10464,2026-03-03,11:55,Gachibowli,Coffee,Latte,2,120,0,240.0,Card
+T10465,2026-02-14,10:45,Madhapur,Tea,Masala Tea,3,60,10,162.0,Cash
+T10466,2026-01-08,18:25,Hitech City,Bakery,Croissant,2,110,5,209.0,Card
+T10467,2026-05-19,12:35,Hitech City,Coffee,Latte,1,120,0,120.0,UPI
+T10468,2026-05-15,15:25,Madhapur,Cold Drinks,Iced Tea,2,120,0,240.0,Cash
+T10469,2026-02-15,20:25,Hitech City,Coffee,Latte,1,120,5,114.0,UPI
+T10470,2026-05-15,19:05,Gachibowli,Tea,Masala Tea,2,60,10,108.0,Cash
+T10471,2026-01-26,13:25,Gachibowli,Coffee,Americano,4,100,10,360.0,Cash
+T10472,2026-05-05,17:10,Madhapur,Snacks,Veg Sandwich,4,140,10,504.0,UPI
+T10473,2026-06-20,17:10,Madhapur,Tea,Green Tea,1,80,10,72.0,UPI
+T10474,2026-02-15,18:55,Banjara Hills,Bakery,Croissant,1,110,5,104.5,UPI
+T10475,2026-06-04,12:45,Gachibowli,Coffee,Espresso,2,90,0,180.0,UPI
+T10476,2026-03-26,18:15,Banjara Hills,Tea,Masala Tea,5,60,0,300.0,Cash
+T10477,2026-06-21,17:25,Hitech City,Tea,Lemon Tea,1,70,0,70.0,Cash
+T10478,2026-01-18,13:05,Gachibowli,Snacks,Veg Sandwich,1,140,0,140.0,Cash
+T10479,2026-04-18,21:30,Gachibowli,Tea,Lemon Tea,3,70,0,210.0,UPI
+T10480,2026-05-03,18:45,Hitech City,Bakery,Brownie,2,100,0,200.0,Card
+T10481,2026-01-19,19:00,Banjara Hills,Coffee,Mocha,1,150,0,150.0,UPI
+T10482,2026-03-29,10:30,Banjara Hills,Coffee,Americano,2,100,5,190.0,Card
+T10483,2026-06-02,21:35,Hitech City,Snacks,Veg Sandwich,1,140,10,126.0,Cash
+T10484,2026-04-22,10:05,Gachibowli,Tea,Masala Tea,1,60,0,60.0,Cash
+T10485,2026-05-22,18:55,Madhapur,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10486,2026-01-25,08:45,Banjara Hills,Bakery,Chocolate Muffin,3,95,0,285.0,Card
+T10487,2026-01-01,14:20,Gachibowli,Cold Drinks,Cold Coffee,2,150,5,285.0,UPI
+T10488,2026-01-25,07:10,Gachibowli,Bakery,Brownie,1,100,0,100.0,UPI
+T10489,2026-03-20,18:35,Banjara Hills,Tea,Lemon Tea,3,70,0,210.0,Cash
+T10490,2026-05-20,14:25,Gachibowli,Cold Drinks,Iced Tea,1,120,0,120.0,UPI
+T10491,2026-03-09,14:20,Banjara Hills,Coffee,Espresso,3,90,5,256.5,UPI
+T10492,2026-06-28,17:05,Gachibowli,Bakery,Brownie,1,100,5,95.0,Cash
+T10493,2026-02-28,16:30,Gachibowli,Cold Drinks,Cold Coffee,2,150,5,285.0,Cash
+T10494,2026-03-02,15:05,Banjara Hills,Tea,Green Tea,3,80,10,216.0,Cash
+T10495,2026-05-27,20:45,Banjara Hills,Bakery,Brownie,5,100,0,500.0,Card
+T10496,2026-02-14,20:10,Banjara Hills,Coffee,Espresso,3,90,0,270.0,Card
+T10497,2026-01-21,21:30,Hitech City,Coffee,Espresso,5,90,10,405.0,Cash
+T10498,2026-03-08,12:55,Gachibowli,Cold Drinks,Iced Tea,3,120,0,360.0,Cash
+T10499,2026-04-12,16:20,Gachibowli,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10500,2026-04-17,09:45,Banjara Hills,Bakery,Croissant,2,110,0,220.0,Cash
+T10501,2026-01-26,18:40,Madhapur,Cold Drinks,Iced Tea,1,120,0,120.0,Card
+T10502,2026-06-17,15:45,Gachibowli,Tea,Lemon Tea,1,70,0,70.0,UPI
+T10503,2026-06-08,17:55,Hitech City,Tea,Green Tea,1,80,0,80.0,UPI
+T10504,2026-05-02,20:25,Madhapur,Coffee,Latte,1,120,0,120.0,Card
+T10505,2026-05-06,19:50,Hitech City,Coffee,Cappuccino,4,130,0,520.0,Card
+T10506,2026-04-24,18:25,Banjara Hills,Coffee,Mocha,2,150,5,285.0,UPI
+T10507,2026-04-24,10:30,Madhapur,Snacks,Veg Sandwich,1,140,5,133.0,UPI
+T10508,2026-05-12,18:05,Hitech City,Coffee,Mocha,2,150,0,300.0,Cash
+T10509,2026-05-26,07:15,Hitech City,Cold Drinks,Iced Tea,3,120,0,360.0,UPI
+T10510,2026-04-27,08:25,Gachibowli,Snacks,Veg Sandwich,1,140,0,140.0,Cash
+T10511,2026-04-12,17:05,Gachibowli,Bakery,Brownie,1,100,0,100.0,Cash
+T10512,2026-04-25,10:35,Hitech City,Bakery,Croissant,2,110,0,220.0,Card
+T10513,2026-06-26,09:00,Hitech City,Tea,Green Tea,1,80,5,76.0,UPI
+T10514,2026-06-15,10:15,Banjara Hills,Coffee,Mocha,2,150,5,285.0,Cash
+T10515,2026-01-03,15:10,Hitech City,Bakery,Brownie,1,100,0,100.0,Card
+T10516,2026-06-05,19:20,Madhapur,Snacks,Veg Sandwich,4,140,10,504.0,Card
+T10517,2026-04-07,19:35,Gachibowli,Coffee,Mocha,1,150,0,150.0,Cash
+T10518,2026-01-27,07:50,Madhapur,Cold Drinks,Cold Coffee,3,150,5,427.5,Card
+T10519,2026-06-25,09:05,Madhapur,Tea,Masala Tea,5,60,10,270.0,Card
+T10520,2026-03-08,17:50,Hitech City,Coffee,Mocha,1,150,5,142.5,UPI
+T10521,2026-06-03,14:25,Gachibowli,Bakery,Brownie,1,100,0,100.0,Card
+T10522,2026-03-08,20:30,Hitech City,Tea,Green Tea,2,80,5,152.0,Card
+T10523,2026-02-26,18:50,Madhapur,Snacks,Cheese Sandwich,1,160,10,144.0,Cash
+T10524,2026-03-18,19:50,Banjara Hills,Cold Drinks,Iced Tea,2,120,0,240.0,Card
+T10525,2026-02-02,18:55,Madhapur,Snacks,Cheese Sandwich,2,160,0,320.0,Cash
+T10526,2026-01-23,10:15,Madhapur,Snacks,Veg Sandwich,3,140,0,420.0,Card
+T10527,2026-03-08,16:35,Banjara Hills,Cold Drinks,Cold Coffee,1,150,0,150.0,Card
+T10528,2026-02-19,15:50,Banjara Hills,Tea,Green Tea,2,80,0,160.0,UPI
+T10529,2026-02-05,21:25,Hitech City,Tea,Green Tea,5,80,0,400.0,Card
+T10530,2026-02-16,18:35,Madhapur,Tea,Masala Tea,2,60,0,120.0,Cash
+T10531,2026-01-15,07:20,Hitech City,Coffee,Espresso,2,90,0,180.0,Card
+T10532,2026-01-23,09:30,Gachibowli,Bakery,Brownie,1,100,0,100.0,Card
+T10533,2026-01-02,07:15,Madhapur,Snacks,Veg Sandwich,1,140,0,140.0,Cash
+T10534,2026-02-18,07:00,Madhapur,Bakery,Brownie,2,100,0,200.0,Card
+T10535,2026-02-03,09:40,Banjara Hills,Bakery,Croissant,1,110,0,110.0,Card
+T10536,2026-03-16,15:40,Hitech City,Bakery,Croissant,2,110,0,220.0,Card
+T10537,2026-05-06,13:15,Banjara Hills,Coffee,Americano,4,100,0,400.0,UPI
+T10538,2026-02-27,18:10,Hitech City,Coffee,Espresso,2,90,5,171.0,UPI
+T10539,2026-04-04,18:00,Banjara Hills,Tea,Green Tea,3,80,0,240.0,Cash
+T10540,2026-01-13,17:50,Banjara Hills,Cold Drinks,Cold Coffee,1,150,10,135.0,Card
+T10541,2026-04-24,13:40,Hitech City,Coffee,Mocha,1,150,0,150.0,Cash
+T10542,2026-06-25,17:20,Madhapur,Tea,Green Tea,2,80,10,144.0,Cash
+T10543,2026-06-05,18:30,Banjara Hills,Cold Drinks,Cold Coffee,3,150,5,427.5,Card
+T10544,2026-01-30,18:35,Hitech City,Coffee,Espresso,2,90,0,180.0,Card
+T10545,2026-04-15,12:00,Gachibowli,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10546,2026-03-02,07:50,Gachibowli,Coffee,Cappuccino,3,130,5,370.5,UPI
+T10547,2026-01-24,18:05,Hitech City,Snacks,Veg Sandwich,2,140,0,280.0,Card
+T10548,2026-03-17,11:00,Madhapur,Coffee,Cappuccino,3,130,0,390.0,Card
+T10549,2026-06-23,12:55,Banjara Hills,Coffee,Cappuccino,1,130,0,130.0,UPI
+T10550,2026-06-19,17:25,Madhapur,Tea,Masala Tea,3,60,5,171.0,Cash
+T10551,2026-01-24,13:25,Gachibowli,Coffee,Americano,1,100,0,100.0,Card
+T10552,2026-04-09,18:35,Banjara Hills,Snacks,Cheese Sandwich,1,160,0,160.0,UPI
+T10553,2026-06-28,18:10,Gachibowli,Coffee,Cappuccino,1,130,5,123.5,Cash
+T10554,2026-06-23,14:45,Banjara Hills,Tea,Green Tea,2,80,5,152.0,Cash
+T10555,2026-02-03,15:35,Banjara Hills,Coffee,Cappuccino,3,130,0,390.0,UPI
+T10556,2026-03-08,17:00,Hitech City,Snacks,Veg Sandwich,3,140,5,399.0,Cash
+T10557,2026-03-28,16:55,Hitech City,Snacks,Veg Sandwich,2,140,0,280.0,Card
+T10558,2026-03-30,17:50,Banjara Hills,Tea,Green Tea,1,80,5,76.0,UPI
+T10559,2026-06-14,20:40,Hitech City,Cold Drinks,Cold Coffee,1,150,0,150.0,UPI
+T10560,2026-05-06,12:25,Gachibowli,Coffee,Mocha,1,150,0,150.0,Card
+T10561,2026-03-02,08:35,Gachibowli,Snacks,Cheese Sandwich,2,160,0,320.0,Card
+T10562,2026-03-22,09:35,Gachibowli,Snacks,Veg Sandwich,2,140,0,280.0,Card
+T10563,2026-01-10,16:00,Madhapur,Cold Drinks,Cold Coffee,1,150,5,142.5,Cash
+T10564,2026-05-24,10:50,Banjara Hills,Tea,Lemon Tea,4,70,0,280.0,UPI
+T10565,2026-04-27,12:45,Madhapur,Bakery,Croissant,1,110,10,99.0,Cash
+T10566,2026-04-26,09:50,Madhapur,Coffee,Espresso,1,90,0,90.0,Cash
+T10567,2026-05-14,13:05,Hitech City,Coffee,Latte,3,120,0,360.0,Cash
+T10568,2026-04-15,09:45,Hitech City,Coffee,Espresso,1,90,0,90.0,Card
+T10569,2026-02-18,18:05,Banjara Hills,Snacks,Cheese Sandwich,1,160,10,144.0,Card
+T10570,2026-04-28,17:40,Banjara Hills,Coffee,Americano,4,100,0,400.0,Cash
+T10571,2026-04-21,19:35,Hitech City,Cold Drinks,Iced Tea,2,120,0,240.0,Cash
+T10572,2026-02-02,09:50,Gachibowli,Bakery,Croissant,2,110,0,220.0,Card
+T10573,2026-06-05,20:15,Madhapur,Coffee,Mocha,1,150,0,150.0,Card
+T10574,2026-02-04,09:45,Madhapur,Snacks,Veg Sandwich,3,140,5,399.0,Cash
+T10575,2026-05-21,19:55,Hitech City,Snacks,Veg Sandwich,4,140,10,504.0,UPI
+T10576,2026-02-23,17:20,Hitech City,Bakery,Brownie,1,100,10,90.0,Cash
+T10577,2026-06-16,21:10,Madhapur,Bakery,Chocolate Muffin,2,95,10,171.0,Cash
+T10578,2026-01-30,18:40,Gachibowli,Tea,Lemon Tea,2,70,10,126.0,Cash
+T10579,2026-05-17,11:30,Banjara Hills,Snacks,Cheese Sandwich,1,160,0,160.0,Card
+T10580,2026-02-07,08:00,Madhapur,Coffee,Espresso,1,90,0,90.0,Cash
+T10581,2026-03-06,09:00,Banjara Hills,Snacks,Veg Sandwich,2,140,0,280.0,Card
+T10582,2026-04-26,09:50,Gachibowli,Snacks,Veg Sandwich,2,140,0,280.0,UPI
+T10583,2026-05-11,18:55,Gachibowli,Coffee,Mocha,2,150,0,300.0,Card
+T10584,2026-04-17,20:50,Banjara Hills,Tea,Masala Tea,4,60,0,240.0,Cash
+T10585,2026-03-06,10:35,Madhapur,Cold Drinks,Cold Coffee,1,150,10,135.0,Cash
+T10586,2026-05-20,18:15,Madhapur,Snacks,Cheese Sandwich,2,160,0,320.0,Card
+T10587,2026-02-15,21:05,Banjara Hills,Coffee,Americano,4,100,10,360.0,Card
+T10588,2026-01-11,14:40,Madhapur,Coffee,Mocha,1,150,5,142.5,UPI
+T10589,2026-03-26,15:10,Banjara Hills,Coffee,Latte,1,120,0,120.0,Cash
+T10590,2026-06-07,19:20,Madhapur,Tea,Lemon Tea,2,70,5,133.0,UPI
+T10591,2026-03-23,16:10,Hitech City,Bakery,Chocolate Muffin,1,95,5,90.25,Card
+T10592,2026-05-20,16:05,Madhapur,Tea,Masala Tea,1,60,0,60.0,Card
+T10593,2026-04-03,12:45,Banjara Hills,Bakery,Chocolate Muffin,1,95,5,90.25,UPI
+T10594,2026-06-21,13:15,Hitech City,Cold Drinks,Iced Tea,2,120,5,228.0,UPI
+T10595,2026-06-24,19:30,Gachibowli,Cold Drinks,Iced Tea,2,120,0,240.0,Card
+T10596,2026-05-19,18:00,Gachibowli,Cold Drinks,Iced Tea,2,120,0,240.0,Card
+T10597,2026-01-12,12:50,Banjara Hills,Coffee,Espresso,1,90,0,90.0,UPI
+T10598,2026-05-18,16:50,Hitech City,Coffee,Cappuccino,1,130,10,117.0,Cash
+T10599,2026-04-19,19:15,Gachibowli,Bakery,Chocolate Muffin,3,95,10,256.5,Cash
+T10600,2026-01-19,18:10,Banjara Hills,Coffee,Latte,1,120,0,120.0,UPI
+T10601,2026-01-19,08:20,Madhapur,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10602,2026-04-10,15:30,Banjara Hills,Tea,Green Tea,1,80,0,80.0,Cash
+T10603,2026-01-02,17:45,Banjara Hills,Coffee,Cappuccino,2,130,5,247.0,Cash
+T10604,2026-01-19,13:40,Madhapur,Coffee,Cappuccino,1,130,10,117.0,Cash
+T10605,2026-01-23,11:35,Banjara Hills,Tea,Green Tea,1,80,10,72.0,Card
+T10606,2026-02-10,16:10,Madhapur,Snacks,Veg Sandwich,1,140,5,133.0,Cash
+T10607,2026-02-06,12:55,Hitech City,Bakery,Brownie,1,100,0,100.0,UPI
+T10608,2026-01-11,07:45,Madhapur,Tea,Green Tea,2,80,0,160.0,UPI
+T10609,2026-03-30,10:50,Hitech City,Cold Drinks,Cold Coffee,2,150,0,300.0,UPI
+T10610,2026-06-07,19:15,Banjara Hills,Coffee,Cappuccino,1,130,5,123.5,Cash
+T10611,2026-04-29,17:05,Banjara Hills,Coffee,Mocha,2,150,0,300.0,UPI
+T10612,2026-05-29,15:25,Hitech City,Tea,Masala Tea,1,60,10,54.0,UPI
+T10613,2026-03-14,17:15,Madhapur,Tea,Masala Tea,1,60,0,60.0,Cash
+T10614,2026-05-30,09:45,Hitech City,Tea,Masala Tea,3,60,0,180.0,UPI
+T10615,2026-03-22,11:15,Madhapur,Snacks,Veg Sandwich,2,140,0,280.0,Card
+T10616,2026-02-04,17:25,Madhapur,Cold Drinks,Iced Tea,1,120,0,120.0,Card
+T10617,2026-05-05,16:10,Hitech City,Bakery,Brownie,2,100,0,200.0,Cash
+T10618,2026-02-20,11:50,Banjara Hills,Coffee,Cappuccino,2,130,0,260.0,Cash
+T10619,2026-05-29,14:45,Madhapur,Coffee,Espresso,3,90,5,256.5,Cash
+T10620,2026-05-19,15:10,Madhapur,Tea,Masala Tea,1,60,5,57.0,UPI
+T10621,2026-04-29,15:05,Hitech City,Tea,Green Tea,1,80,0,80.0,Cash
+T10622,2026-06-25,10:40,Hitech City,Coffee,Americano,1,100,0,100.0,Cash
+T10623,2026-05-04,20:00,Banjara Hills,Coffee,Espresso,2,90,0,180.0,Card
+T10624,2026-04-05,11:50,Gachibowli,Coffee,Espresso,2,90,0,180.0,Card
+T10625,2026-04-27,19:00,Madhapur,Bakery,Brownie,1,100,10,90.0,Cash
+T10626,2026-03-09,16:45,Madhapur,Coffee,Americano,1,100,0,100.0,Cash
+T10627,2026-06-17,20:05,Gachibowli,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10628,2026-03-30,15:35,Hitech City,Cold Drinks,Iced Tea,2,120,5,228.0,Card
+T10629,2026-02-12,10:40,Hitech City,Bakery,Brownie,1,100,0,100.0,UPI
+T10630,2026-04-03,17:05,Banjara Hills,Bakery,Brownie,1,100,0,100.0,Card
+T10631,2026-06-22,15:15,Banjara Hills,Bakery,Croissant,1,110,0,110.0,UPI
+T10632,2026-01-12,09:45,Banjara Hills,Coffee,Americano,1,100,5,95.0,Cash
+T10633,2026-02-07,08:20,Banjara Hills,Cold Drinks,Iced Tea,1,120,0,120.0,Cash
+T10634,2026-06-19,19:05,Gachibowli,Coffee,Espresso,1,90,0,90.0,UPI
+T10635,2026-02-26,19:45,Madhapur,Coffee,Americano,2,100,0,200.0,UPI
+T10636,2026-06-25,13:35,Gachibowli,Bakery,Croissant,2,110,0,220.0,Card
+T10637,2026-02-03,09:15,Gachibowli,Bakery,Chocolate Muffin,3,95,5,270.75,UPI
+T10638,2026-06-05,09:35,Banjara Hills,Cold Drinks,Iced Tea,2,120,0,240.0,UPI
+T10639,2026-05-04,17:45,Gachibowli,Bakery,Chocolate Muffin,3,95,10,256.5,Cash
+T10640,2026-04-18,13:00,Gachibowli,Snacks,Veg Sandwich,2,140,0,280.0,Card
+T10641,2026-03-31,17:55,Banjara Hills,Cold Drinks,Iced Tea,2,120,10,216.0,Card
+T10642,2026-02-04,11:15,Gachibowli,Cold Drinks,Iced Tea,3,120,0,360.0,Card
+T10643,2026-02-18,07:55,Banjara Hills,Snacks,Cheese Sandwich,1,160,5,152.0,Cash
+T10644,2026-01-02,13:15,Madhapur,Snacks,Veg Sandwich,3,140,0,420.0,UPI
+T10645,2026-02-09,14:45,Gachibowli,Coffee,Mocha,1,150,5,142.5,Cash
+T10646,2026-04-04,17:50,Gachibowli,Tea,Green Tea,2,80,0,160.0,UPI
+T10647,2026-04-05,16:35,Madhapur,Coffee,Mocha,5,150,5,712.5,Cash
+T10648,2026-04-12,18:50,Hitech City,Coffee,Cappuccino,2,130,0,260.0,UPI
+T10649,2026-02-24,15:25,Banjara Hills,Snacks,Cheese Sandwich,2,160,10,288.0,UPI
+T10650,2026-04-10,21:00,Gachibowli,Snacks,Cheese Sandwich,1,160,0,160.0,Cash
+T10651,2026-04-22,09:20,Banjara Hills,Coffee,Espresso,1,90,5,85.5,Cash
+T10652,2026-04-09,20:30,Banjara Hills,Bakery,Croissant,2,110,0,220.0,UPI
+T10653,2026-06-13,15:00,Madhapur,Coffee,Espresso,3,90,5,256.5,UPI
+T10654,2026-01-09,18:40,Hitech City,Bakery,Chocolate Muffin,2,95,5,180.5,Cash
+T10655,2026-01-10,13:50,Madhapur,Coffee,Latte,4,120,0,480.0,Card
+T10656,2026-04-01,17:30,Banjara Hills,Bakery,Croissant,1,110,0,110.0,UPI
+T10657,2026-05-21,11:40,Madhapur,Cold Drinks,Iced Tea,2,120,0,240.0,UPI
+T10658,2026-06-05,21:35,Madhapur,Cold Drinks,Iced Tea,1,120,0,120.0,UPI
+T10659,2026-04-15,15:40,Banjara Hills,Coffee,Cappuccino,2,130,0,260.0,Cash
+T10660,2026-03-07,19:45,Gachibowli,Coffee,Mocha,2,150,0,300.0,UPI
+T10661,2026-03-28,20:35,Banjara Hills,Bakery,Brownie,1,100,5,95.0,Card
+T10662,2026-01-30,11:30,Hitech City,Bakery,Brownie,2,100,0,200.0,Card
+T10663,2026-04-16,20:40,Hitech City,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10664,2026-01-24,14:55,Hitech City,Cold Drinks,Cold Coffee,1,150,5,142.5,Card
+T10665,2026-03-22,13:45,Hitech City,Coffee,Mocha,1,150,10,135.0,Card
+T10666,2026-02-21,11:15,Hitech City,Cold Drinks,Cold Coffee,1,150,0,150.0,UPI
+T10667,2026-06-08,13:05,Gachibowli,Coffee,Cappuccino,4,130,10,468.0,Cash
+T10668,2026-01-02,18:40,Madhapur,Coffee,Latte,3,120,0,360.0,Card
+T10669,2026-05-28,19:35,Madhapur,Coffee,Americano,5,100,5,475.0,Card
+T10670,2026-02-26,18:10,Gachibowli,Coffee,Latte,2,120,0,240.0,Cash
+T10671,2026-01-09,15:30,Gachibowli,Cold Drinks,Cold Coffee,2,150,0,300.0,UPI
+T10672,2026-06-28,16:25,Hitech City,Snacks,Veg Sandwich,1,140,10,126.0,Card
+T10673,2026-05-29,09:25,Madhapur,Bakery,Croissant,3,110,0,330.0,UPI
+T10674,2026-03-10,15:45,Gachibowli,Tea,Masala Tea,1,60,0,60.0,UPI
+T10675,2026-04-18,18:25,Gachibowli,Tea,Masala Tea,3,60,0,180.0,UPI
+T10676,2026-05-27,09:45,Madhapur,Bakery,Brownie,1,100,0,100.0,UPI
+T10677,2026-05-23,14:30,Hitech City,Coffee,Espresso,1,90,10,81.0,Card
+T10678,2026-01-03,10:35,Madhapur,Coffee,Americano,5,100,10,450.0,Card
+T10679,2026-03-18,11:45,Hitech City,Coffee,Latte,1,120,10,108.0,UPI
+T10680,2026-02-25,19:35,Madhapur,Cold Drinks,Cold Coffee,2,150,0,300.0,Card
+T10681,2026-04-03,13:40,Banjara Hills,Cold Drinks,Iced Tea,3,120,0,360.0,Card
+T10682,2026-02-01,13:50,Hitech City,Bakery,Croissant,1,110,5,104.5,Card
+T10683,2026-04-01,12:40,Banjara Hills,Tea,Lemon Tea,2,70,0,140.0,Card
+T10684,2026-06-07,11:50,Madhapur,Coffee,Americano,3,100,10,270.0,Card
+T10685,2026-06-11,17:30,Hitech City,Cold Drinks,Cold Coffee,3,150,0,450.0,Card
+T10686,2026-02-28,12:50,Gachibowli,Coffee,Mocha,2,150,5,285.0,Card
+T10687,2026-04-24,18:25,Gachibowli,Snacks,Veg Sandwich,2,140,0,280.0,UPI
+T10688,2026-02-17,19:10,Banjara Hills,Snacks,Veg Sandwich,1,140,0,140.0,UPI
+T10689,2026-02-12,14:05,Banjara Hills,Coffee,Cappuccino,4,130,0,520.0,UPI
+T10690,2026-04-12,16:05,Banjara Hills,Coffee,Cappuccino,1,130,0,130.0,Cash
+T10691,2026-04-10,12:15,Hitech City,Snacks,Veg Sandwich,1,140,10,126.0,UPI
+T10692,2026-05-15,19:00,Gachibowli,Coffee,Latte,2,120,0,240.0,Card
+T10693,2026-05-19,20:40,Hitech City,Tea,Lemon Tea,1,70,10,63.0,Cash
+T10694,2026-06-02,15:55,Madhapur,Bakery,Brownie,3,100,0,300.0,Card
+T10695,2026-05-04,16:05,Madhapur,Tea,Lemon Tea,1,70,0,70.0,UPI
+T10696,2026-03-19,07:40,Madhapur,Cold Drinks,Cold Coffee,2,150,0,300.0,Card
+T10697,2026-05-01,16:55,Madhapur,Cold Drinks,Iced Tea,1,120,0,120.0,UPI
+T10698,2026-04-21,18:45,Madhapur,Coffee,Espresso,2,90,5,171.0,UPI
+T10699,2026-04-16,19:30,Gachibowli,Tea,Green Tea,1,80,10,72.0,Card
+T10700,2026-02-26,11:30,Madhapur,Bakery,Brownie,1,100,5,95.0,Card
+T10701,2026-06-16,18:20,Hitech City,Tea,Green Tea,1,80,0,80.0,UPI
+T10702,2026-03-16,09:35,Gachibowli,Bakery,Croissant,1,110,10,99.0,UPI
+T10703,2026-03-24,07:00,Madhapur,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10704,2026-02-02,18:55,Banjara Hills,Coffee,Latte,1,120,0,120.0,Card
+T10705,2026-02-25,13:20,Gachibowli,Snacks,Cheese Sandwich,2,160,0,320.0,Cash
+T10706,2026-01-09,12:10,Banjara Hills,Coffee,Latte,1,120,0,120.0,Cash
+T10707,2026-05-01,10:20,Banjara Hills,Cold Drinks,Cold Coffee,1,150,0,150.0,Cash
+T10708,2026-03-05,14:35,Hitech City,Coffee,Espresso,2,90,0,180.0,Card
+T10709,2026-01-25,16:15,Madhapur,Tea,Lemon Tea,1,70,0,70.0,UPI
+T10710,2026-06-11,18:55,Madhapur,Cold Drinks,Iced Tea,2,120,0,240.0,Card
+T10711,2026-06-13,12:25,Hitech City,Cold Drinks,Iced Tea,1,120,10,108.0,UPI
+T10712,2026-03-02,17:25,Banjara Hills,Coffee,Latte,1,120,0,120.0,Card
+T10713,2026-03-04,07:00,Hitech City,Bakery,Croissant,2,110,0,220.0,Card
+T10714,2026-01-23,11:35,Banjara Hills,Coffee,Cappuccino,2,130,0,260.0,UPI
+T10715,2026-04-02,17:55,Gachibowli,Bakery,Chocolate Muffin,2,95,0,190.0,UPI
+T10716,2026-03-23,21:50,Hitech City,Snacks,Cheese Sandwich,1,160,0,160.0,UPI
+T10717,2026-06-26,13:55,Gachibowli,Coffee,Americano,1,100,0,100.0,Cash
+T10718,2026-04-23,16:40,Hitech City,Snacks,Veg Sandwich,1,140,5,133.0,Cash
+T10719,2026-03-31,12:35,Hitech City,Coffee,Mocha,3,150,5,427.5,UPI
+T10720,2026-05-16,10:20,Gachibowli,Cold Drinks,Cold Coffee,1,150,0,150.0,UPI
+T10721,2026-06-13,15:55,Madhapur,Coffee,Americano,3,100,5,285.0,Cash
+T10722,2026-03-03,12:05,Hitech City,Bakery,Brownie,4,100,0,400.0,Cash
+T10723,2026-06-24,15:40,Gachibowli,Coffee,Americano,2,100,0,200.0,Cash
+T10724,2026-03-24,09:40,Hitech City,Bakery,Brownie,1,100,0,100.0,UPI
+T10725,2026-02-21,09:15,Gachibowli,Coffee,Cappuccino,1,130,10,117.0,Cash
+T10726,2026-05-06,16:55,Hitech City,Bakery,Croissant,1,110,0,110.0,Cash
+T10727,2026-01-19,07:15,Gachibowli,Bakery,Brownie,1,100,0,100.0,Cash
+T10728,2026-01-16,13:55,Banjara Hills,Cold Drinks,Iced Tea,1,120,0,120.0,Cash
+T10729,2026-03-10,16:55,Hitech City,Coffee,Cappuccino,3,130,0,390.0,Cash
+T10730,2026-01-25,09:15,Hitech City,Bakery,Chocolate Muffin,1,95,0,95.0,Cash
+T10731,2026-06-10,20:40,Banjara Hills,Snacks,Veg Sandwich,2,140,10,252.0,Cash
+T10732,2026-05-28,13:35,Hitech City,Snacks,Veg Sandwich,2,140,0,280.0,UPI
+T10733,2026-05-21,14:25,Gachibowli,Bakery,Brownie,1,100,5,95.0,Card
+T10734,2026-03-22,16:25,Gachibowli,Cold Drinks,Cold Coffee,1,150,10,135.0,Cash
+T10735,2026-03-24,17:45,Madhapur,Bakery,Chocolate Muffin,1,95,5,90.25,Card
+T10736,2026-04-26,15:30,Banjara Hills,Coffee,Latte,2,120,0,240.0,Cash
+T10737,2026-02-04,21:20,Hitech City,Coffee,Latte,1,120,0,120.0,Card
+T10738,2026-01-06,18:55,Hitech City,Cold Drinks,Cold Coffee,1,150,5,142.5,UPI
+T10739,2026-01-10,15:10,Hitech City,Coffee,Americano,1,100,5,95.0,UPI
+T10740,2026-03-07,19:05,Banjara Hills,Bakery,Croissant,1,110,0,110.0,Cash
+T10741,2026-03-25,18:10,Banjara Hills,Tea,Lemon Tea,3,70,10,189.0,Cash
+T10742,2026-06-14,12:55,Banjara Hills,Snacks,Cheese Sandwich,2,160,0,320.0,Card
+T10743,2026-03-31,19:30,Hitech City,Tea,Green Tea,4,80,0,320.0,Cash
+T10744,2026-06-17,19:00,Banjara Hills,Bakery,Brownie,2,100,0,200.0,Card
+T10745,2026-05-15,08:40,Hitech City,Bakery,Croissant,1,110,5,104.5,UPI
+T10746,2026-01-13,17:30,Banjara Hills,Tea,Lemon Tea,2,70,5,133.0,UPI
+T10747,2026-04-21,12:30,Gachibowli,Coffee,Americano,1,100,0,100.0,Cash
+T10748,2026-01-13,16:20,Hitech City,Coffee,Cappuccino,1,130,0,130.0,UPI
+T10749,2026-05-04,16:35,Hitech City,Tea,Green Tea,2,80,0,160.0,UPI
+T10750,2026-01-19,11:30,Banjara Hills,Tea,Masala Tea,2,60,5,114.0,UPI
+T10751,2026-06-21,14:25,Banjara Hills,Tea,Masala Tea,1,60,0,60.0,Card
+T10752,2026-02-13,21:45,Hitech City,Cold Drinks,Cold Coffee,5,150,0,750.0,Card
+T10753,2026-01-12,20:15,Banjara Hills,Coffee,Espresso,2,90,0,180.0,UPI
+T10754,2026-01-14,11:45,Banjara Hills,Cold Drinks,Iced Tea,1,120,0,120.0,Card
+T10755,2026-06-27,19:20,Hitech City,Tea,Lemon Tea,1,70,0,70.0,Cash
+T10756,2026-05-18,10:40,Gachibowli,Bakery,Chocolate Muffin,2,95,5,180.5,Cash
+T10757,2026-02-06,18:50,Banjara Hills,Coffee,Latte,1,120,10,108.0,Card
+T10758,2026-02-13,08:15,Banjara Hills,Snacks,Cheese Sandwich,2,160,0,320.0,Card
+T10759,2026-06-17,20:05,Madhapur,Tea,Green Tea,2,80,10,144.0,UPI
+T10760,2026-01-05,12:50,Banjara Hills,Tea,Green Tea,1,80,0,80.0,Card
+T10761,2026-05-05,19:40,Gachibowli,Coffee,Cappuccino,1,130,5,123.5,Cash
+T10762,2026-01-06,08:40,Hitech City,Coffee,Mocha,1,150,0,150.0,UPI
+T10763,2026-03-30,18:25,Madhapur,Bakery,Brownie,1,100,5,95.0,UPI
+T10764,2026-06-10,11:30,Madhapur,Cold Drinks,Iced Tea,5,120,0,600.0,UPI
+T10765,2026-02-08,13:30,Gachibowli,Bakery,Brownie,1,100,10,90.0,Cash
+T10766,2026-06-23,17:50,Hitech City,Bakery,Brownie,1,100,0,100.0,Card
+T10767,2026-03-21,20:25,Hitech City,Tea,Lemon Tea,2,70,0,140.0,Cash
+T10768,2026-05-19,18:15,Hitech City,Cold Drinks,Cold Coffee,1,150,10,135.0,Card
+T10769,2026-02-07,17:45,Banjara Hills,Cold Drinks,Iced Tea,1,120,0,120.0,UPI
+T10770,2026-03-23,19:10,Gachibowli,Snacks,Veg Sandwich,1,140,0,140.0,Card
+T10771,2026-03-19,15:50,Hitech City,Cold Drinks,Iced Tea,2,120,0,240.0,UPI
+T10772,2026-02-03,10:45,Hitech City,Bakery,Croissant,1,110,5,104.5,Cash
+T10773,2026-03-01,11:00,Hitech City,Tea,Masala Tea,1,60,0,60.0,Cash
+T10774,2026-06-04,15:50,Gachibowli,Tea,Masala Tea,1,60,0,60.0,Card
+T10775,2026-02-05,10:15,Madhapur,Coffee,Latte,1,120,0,120.0,Card
+T10776,2026-02-26,18:15,Gachibowli,Snacks,Cheese Sandwich,1,160,0,160.0,Cash
+T10777,2026-05-06,18:35,Banjara Hills,Cold Drinks,Iced Tea,1,120,0,120.0,Cash
+T10778,2026-04-08,18:30,Banjara Hills,Bakery,Croissant,4,110,5,418.0,Cash
+T10779,2026-01-28,15:00,Gachibowli,Cold Drinks,Iced Tea,5,120,5,570.0,Cash
+T10780,2026-01-11,16:40,Hitech City,Snacks,Cheese Sandwich,2,160,0,320.0,Card
+T10781,2026-04-23,14:20,Hitech City,Snacks,Cheese Sandwich,3,160,0,480.0,Card
+T10782,2026-03-17,17:00,Gachibowli,Snacks,Veg Sandwich,2,140,0,280.0,Cash
+T10783,2026-04-26,09:40,Hitech City,Coffee,Cappuccino,1,130,5,123.5,Card
+T10784,2026-04-16,12:00,Hitech City,Coffee,Americano,1,100,10,90.0,Card
+T10785,2026-01-24,11:55,Banjara Hills,Bakery,Brownie,3,100,0,300.0,UPI
+T10786,2026-01-30,18:50,Gachibowli,Tea,Masala Tea,1,60,10,54.0,Cash
+T10787,2026-05-11,17:10,Hitech City,Tea,Green Tea,2,80,0,160.0,Card
+T10788,2026-05-25,19:10,Banjara Hills,Coffee,Americano,3,100,0,300.0,Card
+T10789,2026-03-20,12:35,Hitech City,Coffee,Mocha,2,150,0,300.0,UPI
+T10790,2026-01-01,17:20,Banjara Hills,Coffee,Latte,1,120,0,120.0,Cash
+T10791,2026-05-07,11:45,Gachibowli,Bakery,Brownie,1,100,0,100.0,UPI
+T10792,2026-06-03,17:15,Hitech City,Cold Drinks,Iced Tea,2,120,5,228.0,UPI
+T10793,2026-02-17,09:50,Madhapur,Tea,Masala Tea,1,60,0,60.0,Card
+T10794,2026-01-23,08:30,Hitech City,Coffee,Americano,1,100,0,100.0,Card
+T10795,2026-05-29,13:00,Madhapur,Coffee,Cappuccino,2,130,0,260.0,Card
+T10796,2026-01-18,18:40,Banjara Hills,Coffee,Cappuccino,1,130,0,130.0,Cash
+T10797,2026-03-12,12:30,Banjara Hills,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10798,2026-05-27,18:50,Madhapur,Bakery,Chocolate Muffin,5,95,0,475.0,Card
+T10799,2026-06-05,19:20,Madhapur,Bakery,Chocolate Muffin,2,95,5,180.5,UPI
+T10800,2026-06-07,16:40,Hitech City,Snacks,Veg Sandwich,2,140,0,280.0,Cash
+T10801,2026-03-01,18:15,Banjara Hills,Coffee,Latte,1,120,0,120.0,Cash
+T10802,2026-02-23,19:30,Hitech City,Tea,Green Tea,1,80,0,80.0,UPI
+T10803,2026-06-13,10:20,Madhapur,Coffee,Mocha,2,150,0,300.0,Cash
+T10804,2026-05-21,12:00,Gachibowli,Coffee,Cappuccino,2,130,0,260.0,Cash
+T10805,2026-05-26,17:00,Madhapur,Cold Drinks,Cold Coffee,1,150,0,150.0,Cash
+T10806,2026-05-03,20:00,Gachibowli,Bakery,Brownie,1,100,0,100.0,Cash
+T10807,2026-03-27,15:30,Madhapur,Cold Drinks,Iced Tea,2,120,5,228.0,Cash
+T10808,2026-06-23,12:40,Madhapur,Coffee,Latte,1,120,10,108.0,Card
+T10809,2026-01-17,21:20,Hitech City,Cold Drinks,Cold Coffee,1,150,0,150.0,Cash
+T10810,2026-06-05,14:45,Madhapur,Coffee,Cappuccino,3,130,0,390.0,Cash
+T10811,2026-01-09,11:05,Gachibowli,Tea,Lemon Tea,3,70,0,210.0,Card
+T10812,2026-02-25,16:10,Hitech City,Coffee,Cappuccino,1,130,0,130.0,UPI
+T10813,2026-04-24,15:35,Madhapur,Cold Drinks,Iced Tea,2,120,0,240.0,Card
+T10814,2026-05-15,12:25,Hitech City,Coffee,Americano,2,100,0,200.0,UPI
+T10815,2026-01-10,15:55,Madhapur,Cold Drinks,Cold Coffee,2,150,0,300.0,UPI
+T10816,2026-06-25,19:05,Banjara Hills,Tea,Masala Tea,1,60,0,60.0,Cash
+T10817,2026-06-18,18:00,Hitech City,Bakery,Croissant,2,110,10,198.0,Card
+T10818,2026-02-21,10:20,Banjara Hills,Bakery,Chocolate Muffin,1,95,0,95.0,Card
+T10819,2026-02-08,10:05,Banjara Hills,Coffee,Latte,4,120,5,456.0,UPI
+T10820,2026-05-19,13:25,Madhapur,Coffee,Mocha,1,150,10,135.0,Cash
+T10821,2026-03-04,10:20,Gachibowli,Bakery,Croissant,3,110,5,313.5,UPI
+T10822,2026-02-03,07:50,Banjara Hills,Coffee,Latte,1,120,0,120.0,Card
+T10823,2026-04-11,10:45,Gachibowli,Cold Drinks,Iced Tea,2,120,10,216.0,Cash
+T10824,2026-04-02,12:15,Banjara Hills,Snacks,Veg Sandwich,2,140,5,266.0,Card
+T10825,2026-05-26,09:55,Gachibowli,Tea,Lemon Tea,1,70,0,70.0,Card
+T10826,2026-03-01,20:10,Madhapur,Cold Drinks,Cold Coffee,3,150,0,450.0,Card
+T10827,2026-02-16,18:50,Gachibowli,Tea,Masala Tea,2,60,0,120.0,Card
+T10828,2026-01-08,08:05,Madhapur,Tea,Masala Tea,1,60,0,60.0,Card
+T10829,2026-06-04,16:40,Banjara Hills,Coffee,Cappuccino,1,130,10,117.0,Card
+T10830,2026-05-23,17:20,Gachibowli,Bakery,Chocolate Muffin,1,95,5,90.25,UPI
+T10831,2026-06-08,11:10,Hitech City,Tea,Lemon Tea,1,70,0,70.0,Cash
+T10832,2026-06-01,14:30,Hitech City,Bakery,Croissant,2,110,5,209.0,UPI
+T10833,2026-06-19,17:55,Banjara Hills,Cold Drinks,Iced Tea,2,120,0,240.0,Cash
+T10834,2026-06-02,15:40,Madhapur,Coffee,Cappuccino,3,130,0,390.0,Card
+T10835,2026-01-18,17:50,Madhapur,Cold Drinks,Cold Coffee,2,150,0,300.0,Card
+T10836,2026-06-15,17:05,Banjara Hills,Coffee,Espresso,3,90,5,256.5,UPI
+T10837,2026-06-19,09:40,Gachibowli,Coffee,Mocha,1,150,5,142.5,UPI
+T10838,2026-02-22,17:25,Madhapur,Coffee,Mocha,2,150,10,270.0,Card
+T10839,2026-03-30,21:45,Gachibowli,Coffee,Latte,2,120,5,228.0,UPI
+T10840,2026-03-17,08:40,Madhapur,Coffee,Latte,1,120,5,114.0,UPI
+T10841,2026-03-14,19:15,Madhapur,Tea,Green Tea,2,80,0,160.0,Cash
+T10842,2026-04-08,14:30,Gachibowli,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10843,2026-02-18,16:25,Hitech City,Cold Drinks,Cold Coffee,1,150,0,150.0,UPI
+T10844,2026-01-03,08:00,Gachibowli,Coffee,Americano,2,100,0,200.0,UPI
+T10845,2026-01-22,09:30,Gachibowli,Cold Drinks,Cold Coffee,1,150,10,135.0,Cash
+T10846,2026-02-16,15:30,Madhapur,Bakery,Chocolate Muffin,3,95,0,285.0,UPI
+T10847,2026-02-17,14:00,Hitech City,Bakery,Croissant,1,110,10,99.0,Cash
+T10848,2026-05-09,11:40,Gachibowli,Bakery,Croissant,1,110,0,110.0,Cash
+T10849,2026-04-05,09:35,Madhapur,Snacks,Veg Sandwich,1,140,10,126.0,Card
+T10850,2026-05-13,08:45,Banjara Hills,Coffee,Cappuccino,1,130,10,117.0,Cash
+T10851,2026-06-12,16:45,Banjara Hills,Coffee,Mocha,2,150,0,300.0,Card
+T10852,2026-04-27,16:35,Madhapur,Bakery,Croissant,2,110,0,220.0,Card
+T10853,2026-03-16,10:55,Madhapur,Cold Drinks,Iced Tea,2,120,0,240.0,UPI
+T10854,2026-06-11,15:10,Banjara Hills,Bakery,Croissant,1,110,0,110.0,Card
+T10855,2026-05-05,08:40,Madhapur,Coffee,Cappuccino,3,130,0,390.0,UPI
+T10856,2026-06-07,11:20,Hitech City,Coffee,Latte,2,120,5,228.0,Cash
+T10857,2026-02-08,17:25,Hitech City,Snacks,Cheese Sandwich,1,160,10,144.0,Card
+T10858,2026-02-16,19:00,Hitech City,Tea,Masala Tea,5,60,0,300.0,Card
+T10859,2026-04-16,18:15,Hitech City,Bakery,Brownie,1,100,10,90.0,UPI
+T10860,2026-05-28,18:25,Banjara Hills,Coffee,Latte,2,120,0,240.0,UPI
+T10861,2026-04-29,14:20,Hitech City,Tea,Lemon Tea,2,70,5,133.0,Card
+T10862,2026-06-24,18:35,Banjara Hills,Coffee,Mocha,1,150,0,150.0,Card
+T10863,2026-04-25,13:25,Banjara Hills,Bakery,Chocolate Muffin,2,95,0,190.0,Cash
+T10864,2026-06-13,13:30,Madhapur,Bakery,Croissant,3,110,0,330.0,Card
+T10865,2026-03-10,19:20,Hitech City,Bakery,Brownie,2,100,0,200.0,Cash
+T10866,2026-06-22,17:15,Hitech City,Bakery,Chocolate Muffin,1,95,10,85.5,Card
+T10867,2026-05-21,07:00,Banjara Hills,Cold Drinks,Cold Coffee,1,150,0,150.0,Cash
+T10868,2026-01-27,18:25,Hitech City,Coffee,Espresso,2,90,0,180.0,UPI
+T10869,2026-01-07,17:00,Banjara Hills,Bakery,Croissant,2,110,0,220.0,Cash
+T10870,2026-01-31,08:45,Hitech City,Coffee,Americano,1,100,10,90.0,UPI
+T10871,2026-06-28,10:20,Gachibowli,Tea,Lemon Tea,2,70,0,140.0,Card
+T10872,2026-04-20,18:50,Hitech City,Snacks,Cheese Sandwich,2,160,0,320.0,UPI
+T10873,2026-03-12,18:30,Madhapur,Tea,Green Tea,1,80,0,80.0,Card
+T10874,2026-02-15,14:35,Hitech City,Cold Drinks,Iced Tea,1,120,0,120.0,Cash
+T10875,2026-05-06,09:40,Banjara Hills,Snacks,Cheese Sandwich,1,160,5,152.0,Card
+T10876,2026-03-08,09:05,Gachibowli,Coffee,Cappuccino,2,130,0,260.0,UPI
+T10877,2026-05-08,09:50,Gachibowli,Coffee,Latte,4,120,10,432.0,Card
+T10878,2026-02-08,18:30,Gachibowli,Bakery,Croissant,1,110,10,99.0,Card
+T10879,2026-04-22,14:55,Hitech City,Snacks,Cheese Sandwich,3,160,0,480.0,UPI
+T10880,2026-04-09,20:35,Madhapur,Coffee,Cappuccino,2,130,0,260.0,Cash
+T10881,2026-03-19,14:50,Madhapur,Bakery,Brownie,1,100,5,95.0,UPI
+T10882,2026-04-28,18:20,Banjara Hills,Bakery,Brownie,1,100,5,95.0,Card
+T10883,2026-06-19,10:55,Madhapur,Tea,Green Tea,3,80,10,216.0,Card
+T10884,2026-01-22,19:35,Hitech City,Snacks,Veg Sandwich,1,140,0,140.0,UPI
+T10885,2026-06-01,11:30,Madhapur,Coffee,Cappuccino,2,130,10,234.0,Card
+T10886,2026-05-17,21:35,Madhapur,Coffee,Latte,1,120,0,120.0,Cash
+T10887,2026-01-11,14:15,Gachibowli,Snacks,Cheese Sandwich,2,160,5,304.0,Cash
+T10888,2026-05-18,09:45,Hitech City,Coffee,Espresso,4,90,0,360.0,Card
+T10889,2026-06-17,07:45,Hitech City,Coffee,Latte,1,120,10,108.0,UPI
+T10890,2026-02-14,17:20,Hitech City,Cold Drinks,Cold Coffee,2,150,0,300.0,Cash
+T10891,2026-01-17,19:05,Hitech City,Coffee,Cappuccino,1,130,5,123.5,UPI
+T10892,2026-02-21,14:55,Hitech City,Bakery,Brownie,1,100,0,100.0,Card
+T10893,2026-02-24,18:45,Madhapur,Coffee,Americano,1,100,0,100.0,UPI
+T10894,2026-04-17,10:25,Banjara Hills,Bakery,Chocolate Muffin,1,95,0,95.0,UPI
+T10895,2026-01-26,18:50,Banjara Hills,Bakery,Croissant,1,110,0,110.0,Card
+T10896,2026-01-21,07:10,Madhapur,Cold Drinks,Iced Tea,1,120,10,108.0,Card
+T10897,2026-06-27,19:35,Madhapur,Snacks,Veg Sandwich,1,140,0,140.0,Cash
+T10898,2026-04-26,14:10,Hitech City,Bakery,Croissant,2,110,5,209.0,Cash
+T10899,2026-05-08,17:05,Madhapur,Bakery,Brownie,3,100,0,300.0,Card
+T10900,2026-01-02,16:15,Madhapur,Coffee,Cappuccino,5,130,0,650.0,Cash
